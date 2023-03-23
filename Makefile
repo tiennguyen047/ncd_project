@@ -2,6 +2,7 @@
 # make : build docker images
 
 SCRIPT_DIR = build
+DEPLOY_DIR = deployment
 
 # Build docker images, always the FIRST target in this Makefile
 build: info
