@@ -1,7 +1,7 @@
 # This Makefile will run common task for kotllin
 # make : build docker images
 
-SCRIPT_DIR = build
+SCRIPT_DIR = script
 DEPLOY_DIR = deployment
 
 # Build docker images, always the FIRST target in this Makefile
