@@ -1,0 +1,27 @@
+2023-05-07 13:47:12,872 - analysis.py - INFO - data of the DIG is
+   exchange shortName  industryID industryIDv2      industry   industryEn establishedYear  noEmployees  ...  stockRating  deltaInWeek deltaInMonth  deltaInYear  outstandingShare  issueShare  companyType  ticker
+0     HOSE  DIC Corp         336         8633  Bất động sản  Real Estate            2008          866  ...          3.5        0.171        0.314        -0.39             609.9       609.9           CT     DIG
+
+[1 rows x 19 columns]
+2023-05-07 13:47:12,872 - analysis.py - INFO - ['exchange', 'shortName', 'industryID', 'industryIDv2', 'industry', 'industryEn', 'establishedYear', 'noEmployees', 'noShareholders', 'foreignPercent', 'website', 'stockRating', 'deltaInWeek', 'deltaInMonth', 'deltaInYear', 'outstandingShare', 'issueShare', 'companyType', 'ticker']
+2023-05-07 13:47:13,600 - analysis.py - INFO - company overview is
+   exchange shortName  industryID industryIDv2      industry   industryEn establishedYear  noEmployees  ...  stockRating  deltaInWeek deltaInMonth  deltaInYear  outstandingShare  issueShare  companyType  ticker
+0     HOSE  DIC Corp         336         8633  Bất động sản  Real Estate            2008          866  ...          3.5        0.171        0.314        -0.39             609.9       609.9           CT     DIG
+
+[1 rows x 19 columns]
+2023-05-07 13:47:13,601 - analysis.py - INFO - ['exchange', 'shortName', 'industryID', 'industryIDv2', 'industry', 'industryEn', 'establishedYear', 'noEmployees', 'noShareholders', 'foreignPercent', 'website', 'stockRating', 'deltaInWeek', 'deltaInMonth', 'deltaInYear', 'outstandingShare', 'issueShare', 'companyType', 'ticker']
+2023-05-07 13:47:13,948 - analysis.py - INFO - history of fpt
+       Open     High      Low    Close   Volume TradingDate
+0   76900.0  80000.0  76800.0  80000.0  1538861  2023-01-03
+1   80800.0  81000.0  79300.0  80000.0   796544  2023-01-04
+2   80200.0  81500.0  80200.0  80600.0  1014719  2023-01-05
+3   80400.0  81100.0  80200.0  80300.0   721096  2023-01-06
+4   80500.0  80900.0  79900.0  80300.0   520315  2023-01-09
+..      ...      ...      ...      ...      ...         ...
+76  78100.0  78400.0  77600.0  78300.0   772857  2023-04-26
+77  78100.0  78800.0  78100.0  78300.0   221966  2023-04-27
+78  78800.0  78800.0  77500.0  77500.0   946202  2023-04-28
+79  77800.0  78700.0  77600.0  78500.0   498526  2023-05-04
+80  78600.0  78600.0  78200.0  78400.0   320239  2023-05-05
+
+[81 rows x 6 columns]
