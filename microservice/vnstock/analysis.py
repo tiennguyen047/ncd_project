@@ -20,7 +20,6 @@ logger.basicConfig(filename='{}/log_controler/app.log'.format(get_git_root(__fil
                    filemode='w',
                    format='%(asctime)s - %(filename)s - %(levelname)s - %(message)s')
 
-
 ## STOCK TRADING HISTORICAL DATA
 def stock_historical_data_test(symbol="FPT", start_date="2023-01-01", end_date="2023-05-06"):
     """
@@ -46,7 +45,6 @@ def stock_historical_data_test(symbol="FPT", start_date="2023-01-01", end_date="
     df.columns = df.columns.str.title()
     df.rename(columns={'Tradingdate':'TradingDate'}, inplace=True)
     return df
-
 
 class Analysis():
     symbol = ""
