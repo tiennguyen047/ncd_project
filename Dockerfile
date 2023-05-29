@@ -1,5 +1,11 @@
+ARG COMMON_PATH
+ARG OS_NAME
+ARG OS_VERSION
+ARG PORT_PRIVATE
+ARG PORT_EXPOSE
+
 # Use Ubuntu as the base image
-FROM ubuntu:latest
+FROM ${OS_NAME}:${OS_VERSION}
 
 # LABEL about the custom image
 LABEL version="1.0"
@@ -18,15 +24,15 @@ RUN apt-get install -y python3-pip
 # RUN apt-get update && apt-get install -y iputils-ping
 
 # Set current working dir
-WORKDIR /usr/local/share
+WORKDIR ${COMMON_PATH}
 
 # create variable env PORT to import python
-ENV PORT 8080
+ENV PORT=${PORT_PRIVATE}
 
 COPY microservice microservice
 
 # Expose port 2345 to local host
-EXPOSE 2345
+EXPOSE ${PORT_EXPOSE}
 
 # Run command line when start container
 ENTRYPOINT ["python3", "microservice/NCD_service/NCD_Adapter.py"]

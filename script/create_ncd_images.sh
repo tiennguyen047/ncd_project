@@ -30,7 +30,12 @@ function f_build_docker_images() {
     echo ${proj_repo}
     echo ${image_name}:${version}
     # docker build --no-cache -t ${image_name}:${version} ${proj_repo}
-    docker build -t ${image_name}:${version} ${proj_repo}
+    docker build -t ${image_name}:${version} ${proj_repo} \
+        --build-arg COMMON_PATH=${NCD_COMMON_PATH} \
+        --build-arg OS_NAME=${BASE_OS} \
+        --build-arg OS_VERSION=${BASE_OS_VERSION} \
+        --build-arg PORT_PRIVATE=${port_inside_docker_private}\
+        --build-arg PORT_EXPOSE=${port_publish_host}
 }
 
 function f_remove_image_tar() {
