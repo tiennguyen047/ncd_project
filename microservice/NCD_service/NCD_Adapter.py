@@ -1,9 +1,16 @@
 import os
 import sys
+import logging
 from http.server import HTTPServer
 sys.path.insert(0, "/usr/local/share/microservice")
 from functools import wraps
 from Common.base_http_server import NCD_http_request_handler
+
+logger = logging
+logger.basicConfig(filename='{}/log_controler/app.log'.format(os.getcwd()), 
+                   level=logging.INFO,
+                   filemode='w',
+                   format='%(asctime)s - %(filename)s - %(levelname)s - %(message)s')
 
 def show_fucntion_name(f):
         @wraps(f)
@@ -17,10 +24,10 @@ class MyServer(NCD_http_request_handler):
 
     @show_fucntion_name
     def do_GET(self):
-        print(self.path)
+        logger.info("path: {}".format(self.path))
 
         if "/" == self.path:
-            print("1")
+            # print("1")
             self.login_html_index()
             return
         elif "/" in self.path and "." in self.path:
@@ -29,7 +36,7 @@ class MyServer(NCD_http_request_handler):
             return
 
         else:
-            print("else")
+            # print("else")
             self.send_response(200)
             self.send_header("Content-type", "text/html")
             self.end_headers()
@@ -45,19 +52,22 @@ class MyServer(NCD_http_request_handler):
             else:
                 f = pat + " - File Not Found"
                 self.send_error(404,f)
+                logger.error("{}".format(f))
         except:
             f = pat + " - File Not Found"
             self.send_error(404,f)
+            logger.error("{}".format(f),exc_info=True)
 
 if __name__ == "__main__":
     webServer = HTTPServer((hostName, serverPort), MyServer)
     sa = webServer.socket.getsockname()
     url = "http://" + sa[0] + ":" + str(sa[1]) + "/"
-    print("Server started http://%s:%s" % (hostName, serverPort))
+    logger.info("Server started http://%s:%s" % (hostName, serverPort))
+    logger.info("url: {}".format(url))
     try:
         webServer.serve_forever()
     except KeyboardInterrupt:
-        pass
+        logger.error("Server stopped",exc_info=True)
+        webServer.server_close()      
 
-    webServer.server_close()
-    print("Server stopped.")
+pass

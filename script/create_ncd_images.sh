@@ -29,13 +29,16 @@ function f_save_docker_image() {
 function f_build_docker_images() {
     echo ${proj_repo}
     echo ${image_name}:${version}
+    echo "port_inside_docker_private ${port_inside_docker_private}"
+    echo "port_publish_host ${port_publish_host}"
     # docker build --no-cache -t ${image_name}:${version} ${proj_repo}
-    docker build -t ${image_name}:${version} ${proj_repo} \
+    docker build -t ${image_name}:${version} \
         --build-arg COMMON_PATH=${NCD_COMMON_PATH} \
         --build-arg OS_NAME=${BASE_OS} \
         --build-arg OS_VERSION=${BASE_OS_VERSION} \
-        --build-arg PORT_PRIVATE=${port_inside_docker_private}\
-        --build-arg PORT_EXPOSE=${port_publish_host}
+        --build-arg PORT_PRIVATE=${port_inside_docker_private} \
+        --build-arg PORT_EXPOSE=${port_publish_host} \
+        ${proj_repo}
 }
 
 function f_remove_image_tar() {

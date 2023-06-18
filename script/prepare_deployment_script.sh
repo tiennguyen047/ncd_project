@@ -19,7 +19,7 @@ function f_printUsage() {
 function f_deployment() {
     echo "Start deployment service"
     echo "port inside docker private ${port_inside_docker_private}"
-    echo "publish address http://${host_ip}:${port_publish_host}"
+    echo "publish address http://${myip}:${port_publish_host}"
     docker run -d -itd --name ${container_name} -p ${port_publish_host}:${port_inside_docker_private} ${image_name}:${version}
 
 }
