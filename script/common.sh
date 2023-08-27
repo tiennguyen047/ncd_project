@@ -13,10 +13,15 @@ host_ip="10.0.2.15"
 NCD_COMMON_PATH=/usr/local/share
 BASE_OS="ubuntu"
 BASE_OS_VERSION="latest"
-port_inside_docker_private="8080"
-port_publish_host="2345"
+port_inside_docker_private=8080
+port_publish_host=2345
 myip="$(hostname -I | cut -d' ' -f1)"
 myip_test="$(ifconfig | sed -En 's/127.0.0.1//;s/.*inet (addr:)?(([0-9]*\.){3}[0-9]*).*/\2/p')"
+pip_site_package=${proj_repo}/build/package_requirements.txt
+
+
+# For stock docker file,only get info about vntock technology 
+
 
 # for test, # TODO: need to remote
 # for ip_host in ${myip_test}

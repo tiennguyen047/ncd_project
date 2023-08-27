@@ -27,7 +27,7 @@ headers = {
         }
 
 
-r = api_request()
+# r = api_request()
 
 def listing_companies_test():
     url = 'https://fiin-core.ssi.com.vn/Master/GetListOrganization?language=vi'

@@ -38,6 +38,7 @@ function f_build_docker_images() {
         --build-arg OS_VERSION=${BASE_OS_VERSION} \
         --build-arg PORT_PRIVATE=${port_inside_docker_private} \
         --build-arg PORT_EXPOSE=${port_publish_host} \
+        --build-arg PY_SITE_PACKAGES=${pip_site_package} \
         ${proj_repo}
 }
 

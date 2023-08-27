@@ -7,7 +7,7 @@ from functools import wraps
 from Common.base_http_server import NCD_http_request_handler
 
 logger = logging
-logger.basicConfig(filename='{}/log_controler/app.log'.format(os.getcwd()), 
+logger.basicConfig(filename='{}/log_controler/app.log'.format(os.getcwd()),
                    level=logging.INFO,
                    filemode='w',
                    format='%(asctime)s - %(filename)s - %(levelname)s - %(message)s')
@@ -27,7 +27,6 @@ class MyServer(NCD_http_request_handler):
         logger.info("path: {}".format(self.path))
 
         if "/" == self.path:
-            # print("1")
             self.login_html_index()
             return
         elif "/" in self.path and "." in self.path:
@@ -36,7 +35,6 @@ class MyServer(NCD_http_request_handler):
             return
 
         else:
-            # print("else")
             self.send_response(200)
             self.send_header("Content-type", "text/html")
             self.end_headers()
@@ -68,6 +66,4 @@ if __name__ == "__main__":
         webServer.serve_forever()
     except KeyboardInterrupt:
         logger.error("Server stopped",exc_info=True)
-        webServer.server_close()      
-
-pass
+        webServer.server_close()
