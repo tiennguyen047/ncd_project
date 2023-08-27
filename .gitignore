@@ -3,3 +3,7 @@ packages/
 */__pycache__/
 microservice/vnstock/__pycache__
 log_controler/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
