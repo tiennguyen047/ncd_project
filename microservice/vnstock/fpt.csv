@@ -1,2 +1,2 @@
 ,exchange,shortName,industryID,industryIDv2,industry,industryEn,establishedYear,noEmployees,noShareholders,foreignPercent,website,stockRating,deltaInWeek,deltaInMonth,deltaInYear,outstandingShare,issueShare,companyType,ticker
-0,HOSE,FPT Corp,310,9537,Công nghệ Thông tin,Technology,2002,45903,48598,0.49,https://www.fpt.com.vn,3.6,0.045,0.146,0.361,1270.0,1270.0,CT,FPT
+0,HOSE,FPT Corp,310,9537,Công nghệ Thông tin,Technology,2002,45903,48598,0.49,https://www.fpt.com.vn,3.6,-0.013,0.169,0.369,1270.0,1270.0,CT,FPT

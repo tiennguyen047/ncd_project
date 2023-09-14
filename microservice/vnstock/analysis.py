@@ -13,7 +13,7 @@ sys.path.insert(0, "/home/ziuteng/ncd_proj/ncd_project/microservice/")
 from common import headers
 from Common.constants import Tech
 from Common.utils import save_data_frame_to_csv
-from ..Common.singleton import SingletonClass
+from Common.singleton import SingletonClass
 from pandas import json_normalize
 
 def get_git_root(path):
