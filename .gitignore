@@ -7,3 +7,6 @@ log_controler/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+.vscode/setting.json
+.vscode/launch.json
+*/*.log

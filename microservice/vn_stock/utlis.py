@@ -1,4 +1,4 @@
-headers = {
+stock_headers = {
         'Connection': 'keep-alive',
         'sec-ch-ua': '"Not A;Brand";v="99", "Chromium";v="98", "Google Chrome";v="98"',
         'DNT': '1',

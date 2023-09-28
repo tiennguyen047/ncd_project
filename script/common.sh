@@ -20,7 +20,7 @@ myip_test="$(ifconfig | sed -En 's/127.0.0.1//;s/.*inet (addr:)?(([0-9]*\.){3}[0
 pip_site_package=${proj_repo}/build/package_requirements.txt
 
 
-# For stock docker file,only get info about vntock technology 
+# For stock docker file,only get info about vntock technology
 
 
 # for test, # TODO: need to remote

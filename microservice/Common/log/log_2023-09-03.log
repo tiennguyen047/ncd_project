@@ -1,6 +1,0 @@
-2023-09-03 13:41:01,492 	 [INFO | test.py:67] > Hello, Logger
-2023-09-03 13:41:01,492 	 [DEBUG | test.py:68] > bug occured
-2023-09-03 18:25:54,262 	 [INFO | logger.py:62] > Hello, Logger
-2023-09-03 18:25:54,262 	 [DEBUG | logger.py:63] > bug occured
-2023-09-03 18:34:37,931 	 [INFO | logger.py:62] > Hello, Logger
-2023-09-03 18:34:37,931 	 [DEBUG | logger.py:63] > bug occured

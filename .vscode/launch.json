@@ -5,10 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: base_service",
+            "name": "Python: Postgresql Adapter",
             "type": "python",
             "request": "launch",
-            "program": "/home/ziuteng/NCD_project/ncd_ncdproject/microservice/NCD_service/base_service.py",
+            "program": "/home/ziuteng/ncd_proj/ncd_project/microservice/postgres_sql/Postgres_Adapter.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Python: vnstock analysis",
+            "type": "python",
+            "request": "launch",
+            "program": "/home/ziuteng/ncd_proj/ncd_project/microservice/vnstock/analysis.py",
             "console": "integratedTerminal",
             "justMyCode": true
         }

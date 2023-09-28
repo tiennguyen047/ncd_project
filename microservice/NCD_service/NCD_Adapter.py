@@ -3,20 +3,14 @@ import sys
 import logging
 from http.server import HTTPServer
 sys.path.insert(0, "/usr/local/share/microservice")
-from functools import wraps
-from Common.base_http_server import NCD_http_request_handler
+from common import show_fucntion_name
+from common.base_http_server import NCD_http_request_handler
 
 logger = logging
 logger.basicConfig(filename='{}/log_controler/app.log'.format(os.getcwd()),
                    level=logging.INFO,
                    filemode='w',
                    format='%(asctime)s - %(filename)s - %(levelname)s - %(message)s')
-
-def show_fucntion_name(f):
-        @wraps(f)
-        def wrapper(*args, **kwargs):
-            return f(*args, **kwargs)
-        return wrapper
 
 hostName = "0.0.0.0"
 serverPort = int(os.environ['PORT'])
@@ -29,6 +23,7 @@ class MyServer(NCD_http_request_handler):
         if "/" == self.path:
             self.login_html_index()
             return
+
         elif "/" in self.path and "." in self.path:
             self.path = "/microservice/NCD_service/GUI/Login_v1" +self.path
             super().do_GET()

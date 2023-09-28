@@ -2,9 +2,10 @@
 import datetime
 import logging
 import os
-# import time
+import time
 
 from singleton import SingletonClass
+
 
 class number(metaclass=SingletonClass):
     # _num = None
@@ -29,12 +30,13 @@ class SingletonType(type):
 
 # python 3 style
 class MyLogger(object, metaclass=SingletonType):
+    # __metaclass__ = SingletonType   # python 2 Style
     _logger = None
 
     def __init__(self):
         self._logger = logging.getLogger("crumbs")
         self._logger.setLevel(logging.DEBUG)
-        formatter = logging.Formatter('%(asctime)s \t [%(levelname)s | %(filename)s:%(lineno)s] > %(message)s')
+        formatter = logging.Formatter('%(asctime)s\t[%(levelname)s | %(filename)s:%(lineno)s] > %(message)s')
 
         now = datetime.datetime.now()
         dirname = "./log"
@@ -51,7 +53,7 @@ class MyLogger(object, metaclass=SingletonType):
         self._logger.addHandler(fileHandler)
         self._logger.addHandler(streamHandler)
 
-        print("Generate new instance")
+        # Generate new instance
 
     def get_logger(self) -> logging:
         return self._logger

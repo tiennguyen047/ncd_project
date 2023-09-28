@@ -1,0 +1,1 @@
+docker run --name pgdev -e POSTGRES_PASSWORD=Str0ngP@ssword -d -p 5432:5432 -v C:\Docker\pgdev:/var/lib/postgresql/data  postgres
