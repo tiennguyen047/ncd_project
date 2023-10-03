@@ -3,12 +3,13 @@ import psycopg2
 
 sys.path.insert(0, "/home/ziuteng/ncd_proj/ncd_project/microservice/")
 from vn_stock import price_board_stock
-from common import get_logger, read_config
+from common import get_logger, read_config, embrace
 from common.constants import CONFIG_POSTGRES, PostGresql, Tech
 
 postgres_config = read_config(CONFIG_POSTGRES)
 logger = get_logger()
 
+@embrace
 def execute_sql(sql:str, postgres_config:dict):
     """execute sql postgresql
 
@@ -34,6 +35,7 @@ def execute_sql(sql:str, postgres_config:dict):
             connection.close()
             logger.info("PostgreSQL connection is closed")
 
+@embrace
 def drop_table(table_name:str):
     # drop table
     sql = '''DROP table IF EXISTS {} '''.format(table_name)
@@ -42,6 +44,7 @@ def drop_table(table_name:str):
     logger.info(sql)
     execute_sql(sql, postgres_config)
 
+@embrace
 def check_table_exists(table_name) -> bool:
     try:
         logger.info('Check_table_exists {}'.format(table_name))
@@ -76,6 +79,7 @@ def check_table_exists(table_name) -> bool:
             logger.info("PostgreSQL connection is closed")
         return ret
 
+@embrace
 def updateTable(mobileId: str, price):
     """update value in table
 
@@ -120,6 +124,7 @@ def updateTable(mobileId: str, price):
             connection.close()
             logger.info("PostgreSQL connection is closed")
 
+@embrace
 def import_data(columns:tuple, data:tuple, table_name:str):
     try:
         logger.info('data to insert\n{}'.format(data))
@@ -145,20 +150,22 @@ def import_data(columns:tuple, data:tuple, table_name:str):
             connection.close()
             logger.info("PostgreSQL connection is closed")
 
+@embrace
 def create_table_price_board(table_name:str, postgres_config:dict):
     logger.info("create table {}".format(table_name))
     sql = PostGresql.CREATE_PRICE_BOARD_TABLE.value.replace('__TABLE_NAME__', table_name)
     logger.info(sql)
     execute_sql(sql, postgres_config)
 
-if not check_table_exists(table_name='fpt_price_board'):
-    create_table_price_board('fpt_price_board', postgres_config)
-else:
-    import_data(columns = ('cp', 'fv', 'mav', 'nstv', 'nstp', 'rsi', 'macdv', 'macdsignal',
-                            'tsignal', 'avgsignal', 'ma20', 'ma50', 'ma100', 'session', 'mw3d',
-                            'mw1m', 'mw3m', 'mw1y', 'rs3d', 'rs1m', 'rs3m', 'rs1y', 'rsavg', 'hp1m',
-                            'hp3m', 'hp1y', 'lp1m', 'lp3m', 'lp1y', 'hp1yp', 'lp1yp', 'pe', 'pb',
-                            'roe', 'oscore', 'av', 'bv', 'ev', 'hmp', 'mscore', 'delta1m',
-                            'delta1y', 'vnipe', 'vnipb', 'vnid3d', 'vnid1m', 'vnid3m', 'vnid1y'),
-                data=tuple(price_board_stock(Tech.FPT)._values[0][1:]),
-                table_name='fpt_price_board')
+if __name__ == "__main__":
+    if not check_table_exists(table_name='fpt_price_board'):
+        create_table_price_board('fpt_price_board', postgres_config)
+    else:
+        import_data(columns = ('cp', 'fv', 'mav', 'nstv', 'nstp', 'rsi', 'macdv', 'macdsignal',
+                                'tsignal', 'avgsignal', 'ma20', 'ma50', 'ma100', 'session', 'mw3d',
+                                'mw1m', 'mw3m', 'mw1y', 'rs3d', 'rs1m', 'rs3m', 'rs1y', 'rsavg', 'hp1m',
+                                'hp3m', 'hp1y', 'lp1m', 'lp3m', 'lp1y', 'hp1yp', 'lp1yp', 'pe', 'pb',
+                                'roe', 'oscore', 'av', 'bv', 'ev', 'hmp', 'mscore', 'delta1m',
+                                'delta1y', 'vnipe', 'vnipb', 'vnid3d', 'vnid1m', 'vnid3m', 'vnid1y'),
+                    data=tuple(price_board_stock(Tech.FPT)._values[0][1:]),
+                    table_name='fpt_price_board')

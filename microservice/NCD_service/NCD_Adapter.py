@@ -3,7 +3,7 @@ import sys
 import logging
 from http.server import HTTPServer
 sys.path.insert(0, "/usr/local/share/microservice")
-from common import show_fucntion_name
+from common import embrace
 from common.base_http_server import NCD_http_request_handler
 
 logger = logging
@@ -16,7 +16,7 @@ hostName = "0.0.0.0"
 serverPort = int(os.environ['PORT'])
 class MyServer(NCD_http_request_handler):
 
-    @show_fucntion_name
+    @embrace
     def do_GET(self):
         logger.info("path: {}".format(self.path))
 

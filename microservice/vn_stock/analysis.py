@@ -7,7 +7,7 @@ import pandas as pd
 import requests
 
 sys.path.insert(0, "/home/ziuteng/ncd_proj/ncd_project/microservice/")
-from common import save_data_frame_to_csv, get_logger
+from common import save_data_frame_to_csv, get_logger, embrace
 from common.constants import Tech
 from pandas import json_normalize
 from vn_stock.utlis import stock_headers
@@ -154,6 +154,7 @@ def price_board_stock(symbol_ls):
     #                         'hmp': 'Khớp nhiều nhất', 'vnipe': 'VNINDEX P/E', 'vnipb': 'VNINDEX P/B'})
     return df
 
+@embrace
 def fpt():
     fpt = Analysis(Tech.FPT)
     save_data_frame_to_csv(fpt.company_overview(), os.path.join(

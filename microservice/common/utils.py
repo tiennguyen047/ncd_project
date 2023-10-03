@@ -4,7 +4,7 @@ import random
 import string
 import configparser
 import os
-from functools import wraps
+import xml.etree.ElementTree as ET
 
 def save_data_frame_to_csv(data_frame:pandas.DataFrame, filename:str) ->None:
     data_frame.to_csv(filename)
@@ -47,8 +47,15 @@ def read_config(path:str) -> dict:
     config.read(path)
     return config
 
-def show_fucntion_name(f):
-    @wraps(f)
-    def wrapper(*args, **kwargs):
-        return f(*args, **kwargs)
-    return wrapper
+def read_xml(path):
+    with open(path, "r") as file:
+        xml_data = file.read()
+    root = ET.fromstring(xml_data)
+    res = [(elem.tag, elem.text) for elem in root.iter()]
+    sessionId=list(filter(lambda element : "sessionId" in element[0], res))[0][1]
+    baseSequenceId=list(filter(lambda element : "baseSequenceId" in element[0], res))[0][1]
+
+
+
+if __name__ == "__main__":
+    read_xml("/home/ziuteng/ncd_proj/ncd_project/microservice/common/res.xml")

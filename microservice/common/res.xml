@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+    <soapenv:Body>
+        <LoginResponse xmlns="http://schemas.ericsson.com/cai3g1.2/">
+            <>A214D5D12D251Z1698290431S6C1P65540</sessionId>
+            <baseSequenceId>1249848864</baseSequenceId>
+        </LoginResponse>
+    </soapenv:Body>
+</soapenv:Envelope>

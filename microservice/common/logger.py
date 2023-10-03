@@ -6,30 +6,8 @@ import os
 import sys
 sys.path.insert(0, "/home/ziuteng/ncd_proj/ncd_project/microservice/")
 from common.constants import LOG
-# from singleton import SingletonClass
+from common.singleton import SingletonType
 
-# class number(metaclass=SingletonClass):
-#     # _num = None
-#     def __init__(self, num):
-#         print("here")
-#         self._num = num
-
-#     def get_num(self):
-#         return self._num
-
-#     def set_num(self, value):
-#         if isinstance(value, int):
-#             self._num = value
-
-class SingletonType(type):
-    _instances = {}
-
-    def __call__(cls, *args, **kwargs):
-        if cls not in cls._instances:
-            cls._instances[cls] = super(SingletonType, cls).__call__(*args, **kwargs)
-        return cls._instances[cls]
-
-# python 3 style
 class MyLogger(object, metaclass=SingletonType):
     _logger = None
 
@@ -60,9 +38,9 @@ def get_logger() -> logging:
     logger = MyLogger.__call__().get_logger()
     return logger
 
-
-# a simple usecase for test, not using in code
-# if __name__ == "__main__":
-#     logger = get_logger()
-#     logger.info("Hello, Logger")
-#     logger.debug("bug occured")
+def embrace(func):
+    logger = get_logger()
+    def wrapper(*args, **kwargs):
+        logger.info("Call function {}".format(func.__name__), stack_info=True)
+        return func(*args, **kwargs)
+    return wrapper
