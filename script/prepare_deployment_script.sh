@@ -1,3 +1,4 @@
+#!/bin/bash
 source "$(realpath $(dirname $0))"/common.sh
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 PROJECT_REPO="$(git rev-parse --show-toplevel)"

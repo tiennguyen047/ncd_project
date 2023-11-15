@@ -54,8 +54,3 @@ def read_xml(path):
     res = [(elem.tag, elem.text) for elem in root.iter()]
     sessionId=list(filter(lambda element : "sessionId" in element[0], res))[0][1]
     baseSequenceId=list(filter(lambda element : "baseSequenceId" in element[0], res))[0][1]
-
-
-
-if __name__ == "__main__":
-    read_xml("/home/ziuteng/ncd_proj/ncd_project/microservice/common/res.xml")

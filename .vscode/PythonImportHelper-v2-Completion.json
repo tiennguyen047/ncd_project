@@ -1,0 +1,2771 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPServer",
+        "importPath": "http.server",
+        "description": "http.server",
+        "isExtraImport": true,
+        "detail": "http.server",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleHTTPRequestHandler",
+        "importPath": "http.server",
+        "description": "http.server",
+        "isExtraImport": true,
+        "detail": "http.server",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPServer",
+        "importPath": "http.server",
+        "description": "http.server",
+        "isExtraImport": true,
+        "detail": "http.server",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleHTTPRequestHandler",
+        "importPath": "http.server",
+        "description": "http.server",
+        "isExtraImport": true,
+        "detail": "http.server",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPServer",
+        "importPath": "http.server",
+        "description": "http.server",
+        "isExtraImport": true,
+        "detail": "http.server",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleHTTPRequestHandler",
+        "importPath": "http.server",
+        "description": "http.server",
+        "isExtraImport": true,
+        "detail": "http.server",
+        "documentation": {}
+    },
+    {
+        "label": "embrace",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "read_config",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "embrace",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "save_data_frame_to_csv",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "embrace",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "embrace",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "read_config",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "embrace",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "save_data_frame_to_csv",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "embrace",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "embrace",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "read_config",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "embrace",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "save_data_frame_to_csv",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "embrace",
+        "importPath": "common",
+        "description": "common",
+        "isExtraImport": true,
+        "detail": "common",
+        "documentation": {}
+    },
+    {
+        "label": "NCD_http_request_handler",
+        "importPath": "common.base_http_server",
+        "description": "common.base_http_server",
+        "isExtraImport": true,
+        "detail": "common.base_http_server",
+        "documentation": {}
+    },
+    {
+        "label": "NCD_http_request_handler",
+        "importPath": "common.base_http_server",
+        "description": "common.base_http_server",
+        "isExtraImport": true,
+        "detail": "common.base_http_server",
+        "documentation": {}
+    },
+    {
+        "label": "NCD_http_request_handler",
+        "importPath": "common.base_http_server",
+        "description": "common.base_http_server",
+        "isExtraImport": true,
+        "detail": "common.base_http_server",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "LOG",
+        "importPath": "common.constants",
+        "description": "common.constants",
+        "isExtraImport": true,
+        "detail": "common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIG_POSTGRES",
+        "importPath": "common.constants",
+        "description": "common.constants",
+        "isExtraImport": true,
+        "detail": "common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "PostGresql",
+        "importPath": "common.constants",
+        "description": "common.constants",
+        "isExtraImport": true,
+        "detail": "common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "Tech",
+        "importPath": "common.constants",
+        "description": "common.constants",
+        "isExtraImport": true,
+        "detail": "common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "Tech",
+        "importPath": "common.constants",
+        "description": "common.constants",
+        "isExtraImport": true,
+        "detail": "common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "LOG",
+        "importPath": "common.constants",
+        "description": "common.constants",
+        "isExtraImport": true,
+        "detail": "common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIG_POSTGRES",
+        "importPath": "common.constants",
+        "description": "common.constants",
+        "isExtraImport": true,
+        "detail": "common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "PostGresql",
+        "importPath": "common.constants",
+        "description": "common.constants",
+        "isExtraImport": true,
+        "detail": "common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "Tech",
+        "importPath": "common.constants",
+        "description": "common.constants",
+        "isExtraImport": true,
+        "detail": "common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "Tech",
+        "importPath": "common.constants",
+        "description": "common.constants",
+        "isExtraImport": true,
+        "detail": "common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "LOG",
+        "importPath": "common.constants",
+        "description": "common.constants",
+        "isExtraImport": true,
+        "detail": "common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIG_POSTGRES",
+        "importPath": "common.constants",
+        "description": "common.constants",
+        "isExtraImport": true,
+        "detail": "common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "PostGresql",
+        "importPath": "common.constants",
+        "description": "common.constants",
+        "isExtraImport": true,
+        "detail": "common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "Tech",
+        "importPath": "common.constants",
+        "description": "common.constants",
+        "isExtraImport": true,
+        "detail": "common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "Tech",
+        "importPath": "common.constants",
+        "description": "common.constants",
+        "isExtraImport": true,
+        "detail": "common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SingletonType",
+        "importPath": "common.singleton",
+        "description": "common.singleton",
+        "isExtraImport": true,
+        "detail": "common.singleton",
+        "documentation": {}
+    },
+    {
+        "label": "SingletonType",
+        "importPath": "common.singleton",
+        "description": "common.singleton",
+        "isExtraImport": true,
+        "detail": "common.singleton",
+        "documentation": {}
+    },
+    {
+        "label": "SingletonType",
+        "importPath": "common.singleton",
+        "description": "common.singleton",
+        "isExtraImport": true,
+        "detail": "common.singleton",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "SingletonClass",
+        "importPath": "singleton",
+        "description": "singleton",
+        "isExtraImport": true,
+        "detail": "singleton",
+        "documentation": {}
+    },
+    {
+        "label": "SingletonClass",
+        "importPath": "singleton",
+        "description": "singleton",
+        "isExtraImport": true,
+        "detail": "singleton",
+        "documentation": {}
+    },
+    {
+        "label": "SingletonClass",
+        "importPath": "singleton",
+        "description": "singleton",
+        "isExtraImport": true,
+        "detail": "singleton",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "json_normalize",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "json_normalize",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "json_normalize",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "json_normalize",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "json_normalize",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "json_normalize",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "git",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "git",
+        "description": "git",
+        "detail": "git",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "string",
+        "description": "string",
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "configparser",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "configparser",
+        "description": "configparser",
+        "detail": "configparser",
+        "documentation": {}
+    },
+    {
+        "label": "xml.etree.ElementTree",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "xml.etree.ElementTree",
+        "description": "xml.etree.ElementTree",
+        "detail": "xml.etree.ElementTree",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "lagrange",
+        "importPath": "scipy.interpolate",
+        "description": "scipy.interpolate",
+        "isExtraImport": true,
+        "detail": "scipy.interpolate",
+        "documentation": {}
+    },
+    {
+        "label": "approximate_taylor_polynomial",
+        "importPath": "scipy.interpolate",
+        "description": "scipy.interpolate",
+        "isExtraImport": true,
+        "detail": "scipy.interpolate",
+        "documentation": {}
+    },
+    {
+        "label": "lagrange",
+        "importPath": "scipy.interpolate",
+        "description": "scipy.interpolate",
+        "isExtraImport": true,
+        "detail": "scipy.interpolate",
+        "documentation": {}
+    },
+    {
+        "label": "approximate_taylor_polynomial",
+        "importPath": "scipy.interpolate",
+        "description": "scipy.interpolate",
+        "isExtraImport": true,
+        "detail": "scipy.interpolate",
+        "documentation": {}
+    },
+    {
+        "label": "lagrange",
+        "importPath": "scipy.interpolate",
+        "description": "scipy.interpolate",
+        "isExtraImport": true,
+        "detail": "scipy.interpolate",
+        "documentation": {}
+    },
+    {
+        "label": "approximate_taylor_polynomial",
+        "importPath": "scipy.interpolate",
+        "description": "scipy.interpolate",
+        "isExtraImport": true,
+        "detail": "scipy.interpolate",
+        "documentation": {}
+    },
+    {
+        "label": "psycopg2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psycopg2",
+        "description": "psycopg2",
+        "detail": "psycopg2",
+        "documentation": {}
+    },
+    {
+        "label": "price_board_stock",
+        "importPath": "vn_stock",
+        "description": "vn_stock",
+        "isExtraImport": true,
+        "detail": "vn_stock",
+        "documentation": {}
+    },
+    {
+        "label": "price_board_stock",
+        "importPath": "vn_stock",
+        "description": "vn_stock",
+        "isExtraImport": true,
+        "detail": "vn_stock",
+        "documentation": {}
+    },
+    {
+        "label": "price_board_stock",
+        "importPath": "vn_stock",
+        "description": "vn_stock",
+        "isExtraImport": true,
+        "detail": "vn_stock",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "stock_headers",
+        "importPath": "vn_stock.utlis",
+        "description": "vn_stock.utlis",
+        "isExtraImport": true,
+        "detail": "vn_stock.utlis",
+        "documentation": {}
+    },
+    {
+        "label": "stock_headers",
+        "importPath": "vn_stock.utlis",
+        "description": "vn_stock.utlis",
+        "isExtraImport": true,
+        "detail": "vn_stock.utlis",
+        "documentation": {}
+    },
+    {
+        "label": "stock_headers",
+        "importPath": "vn_stock.utlis",
+        "description": "vn_stock.utlis",
+        "isExtraImport": true,
+        "detail": "vn_stock.utlis",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "sqrt",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sqrt",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "sqrt",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "vnstock",
+        "description": "vnstock",
+        "isExtraImport": true,
+        "detail": "vnstock",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "vnstock",
+        "description": "vnstock",
+        "isExtraImport": true,
+        "detail": "vnstock",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "vnstock",
+        "description": "vnstock",
+        "isExtraImport": true,
+        "detail": "vnstock",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "docker",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "docker",
+        "description": "docker",
+        "detail": "docker",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "MyServer",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.NCD_service.NCD_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.NCD_service.NCD_Adapter",
+        "peekOfCode": "class MyServer(NCD_http_request_handler):\n    @embrace\n    def do_GET(self):\n        logger.info(\"path: {}\".format(self.path))\n        if \"/\" == self.path:\n            self.login_html_index()\n            return\n        elif \"/\" in self.path and \".\" in self.path:\n            self.path = \"/microservice/NCD_service/GUI/Login_v1\" +self.path\n            super().do_GET()",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.NCD_service.NCD_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.NCD_service.NCD_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.NCD_service.NCD_Adapter",
+        "peekOfCode": "logger = logging\nlogger.basicConfig(filename='{}/log_controler/app.log'.format(os.getcwd()),\n                   level=logging.INFO,\n                   filemode='w',\n                   format='%(asctime)s - %(filename)s - %(levelname)s - %(message)s')\nhostName = \"0.0.0.0\"\nserverPort = int(os.environ['PORT'])\nclass MyServer(NCD_http_request_handler):\n    @embrace\n    def do_GET(self):",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.NCD_service.NCD_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "hostName",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.NCD_service.NCD_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.NCD_service.NCD_Adapter",
+        "peekOfCode": "hostName = \"0.0.0.0\"\nserverPort = int(os.environ['PORT'])\nclass MyServer(NCD_http_request_handler):\n    @embrace\n    def do_GET(self):\n        logger.info(\"path: {}\".format(self.path))\n        if \"/\" == self.path:\n            self.login_html_index()\n            return\n        elif \"/\" in self.path and \".\" in self.path:",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.NCD_service.NCD_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "serverPort",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.NCD_service.NCD_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.NCD_service.NCD_Adapter",
+        "peekOfCode": "serverPort = int(os.environ['PORT'])\nclass MyServer(NCD_http_request_handler):\n    @embrace\n    def do_GET(self):\n        logger.info(\"path: {}\".format(self.path))\n        if \"/\" == self.path:\n            self.login_html_index()\n            return\n        elif \"/\" in self.path and \".\" in self.path:\n            self.path = \"/microservice/NCD_service/GUI/Login_v1\" +self.path",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.NCD_service.NCD_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "NCD_http_request_handler",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.base_http_server",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.base_http_server",
+        "peekOfCode": "class NCD_http_request_handler(SimpleHTTPRequestHandler):\n    def version_string(self):\n        \"\"\"override version_string to ensure all responses does not include\n        Returns:\n            _type_: _description_\n        \"\"\"\n        return \"NCD Service\"",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.base_http_server",
+        "documentation": {}
+    },
+    {
+        "label": "_StrEnum",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "peekOfCode": "class _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'\n    VAR_CHAR_30 = 'varchar(30)'\n    NOT_NULL = 'NOT NULL'\n    CREATE_PRICE_BOARD_TABLE = f'''CREATE TABLE __TABLE_NAME__ (\\\n                                    cp {FLOAT} {NOT_NULL},\\\n                                    fv {FLOAT} {NOT_NULL},\\",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "PostGresql",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "peekOfCode": "class PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'\n    VAR_CHAR_30 = 'varchar(30)'\n    NOT_NULL = 'NOT NULL'\n    CREATE_PRICE_BOARD_TABLE = f'''CREATE TABLE __TABLE_NAME__ (\\\n                                    cp {FLOAT} {NOT_NULL},\\\n                                    fv {FLOAT} {NOT_NULL},\\\n                                    mav {FLOAT} {NOT_NULL},\\\n                                    nstv {FLOAT} {NOT_NULL},\\",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "StockIndex",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "peekOfCode": "class StockIndex(_StrEnum):\n    __doc__ = \"\"\"Index in stock, with each index perfom kind of infor within reflect market sentiment,\n            investment decision will be based on all index,\"\"\"\n    VOLUMN = 'Volumn'\n    ROE = 'state2'\n    PE = \"Price to Earning Ratio (PER)\"\n    EPS = \"\"\n    DPR = \"\"\n    ROA = \"\"\n    PB = \"\"",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "CompanyProperty",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "peekOfCode": "class CompanyProperty(str, Enum):\n    __doc__ = \"\"\"Dividends are a sum of money paid regularly (typically quarterly or anually)\n    by a company to its shareholders profits after fulfilling the tax obligation\n    and deducting other expenses of that company.\"\"\"\n    TIME_DIVIDENDS = 360\n    DIVIDENDS_QUARTERLY = \"Typically quarterly\"\n    DIVIDENDS_ANUALLY = \"Anually\"\nclass MarketPsychology(str, Enum):\n    __doc__= \"\"\"The CBOE Volatility Index (VIX) is a real-time index\n    that represents the market is expectations for the relative strength",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "MarketPsychology",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "peekOfCode": "class MarketPsychology(str, Enum):\n    __doc__= \"\"\"The CBOE Volatility Index (VIX) is a real-time index\n    that represents the market is expectations for the relative strength\n    of near-term price changes of the S&P 500 Index (SPX).\"\"\"\n    VIX = \"\"\nclass Tech:\n    FPT = \"FPT\"",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "Tech",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "peekOfCode": "class Tech:\n    FPT = \"FPT\"",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "REPO_DIR",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "peekOfCode": "REPO_DIR = get_git_root(__file__)\nLOG = os.path.join(REPO_DIR, \"log\", \"app{}.log\")\nMICROSERVICE = os.path.join(REPO_DIR, \"microservice\")\nCOMMON = os.path.join(MICROSERVICE, \"Common\")\nPOSTGRES = os.path.join(MICROSERVICE, \"postgres_sql\")\nCONFIG_POSTGRES = os.path.join(POSTGRES, \"Postgres.cfg\")\nclass _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "LOG",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "peekOfCode": "LOG = os.path.join(REPO_DIR, \"log\", \"app{}.log\")\nMICROSERVICE = os.path.join(REPO_DIR, \"microservice\")\nCOMMON = os.path.join(MICROSERVICE, \"Common\")\nPOSTGRES = os.path.join(MICROSERVICE, \"postgres_sql\")\nCONFIG_POSTGRES = os.path.join(POSTGRES, \"Postgres.cfg\")\nclass _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "MICROSERVICE",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "peekOfCode": "MICROSERVICE = os.path.join(REPO_DIR, \"microservice\")\nCOMMON = os.path.join(MICROSERVICE, \"Common\")\nPOSTGRES = os.path.join(MICROSERVICE, \"postgres_sql\")\nCONFIG_POSTGRES = os.path.join(POSTGRES, \"Postgres.cfg\")\nclass _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'\n    VAR_CHAR_30 = 'varchar(30)'",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "COMMON",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "peekOfCode": "COMMON = os.path.join(MICROSERVICE, \"Common\")\nPOSTGRES = os.path.join(MICROSERVICE, \"postgres_sql\")\nCONFIG_POSTGRES = os.path.join(POSTGRES, \"Postgres.cfg\")\nclass _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'\n    VAR_CHAR_30 = 'varchar(30)'\n    NOT_NULL = 'NOT NULL'",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "POSTGRES",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "peekOfCode": "POSTGRES = os.path.join(MICROSERVICE, \"postgres_sql\")\nCONFIG_POSTGRES = os.path.join(POSTGRES, \"Postgres.cfg\")\nclass _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'\n    VAR_CHAR_30 = 'varchar(30)'\n    NOT_NULL = 'NOT NULL'\n    CREATE_PRICE_BOARD_TABLE = f'''CREATE TABLE __TABLE_NAME__ (\\",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIG_POSTGRES",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "peekOfCode": "CONFIG_POSTGRES = os.path.join(POSTGRES, \"Postgres.cfg\")\nclass _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'\n    VAR_CHAR_30 = 'varchar(30)'\n    NOT_NULL = 'NOT NULL'\n    CREATE_PRICE_BOARD_TABLE = f'''CREATE TABLE __TABLE_NAME__ (\\\n                                    cp {FLOAT} {NOT_NULL},\\",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "MyLogger",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.logger",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.logger",
+        "peekOfCode": "class MyLogger(object, metaclass=SingletonType):\n    _logger = None\n    def __init__(self):\n        self._logger = logging.getLogger(\"crumbs\")\n        self._logger.setLevel(logging.DEBUG)\n        formatter = logging.Formatter('%(asctime)s [%(levelname)s | %(filename)s:%(lineno)s] > %(message)s')\n        # Generate new instance\n        now = datetime.datetime.now()\n        dirname = os.path.dirname(LOG)\n        if not os.path.isdir(dirname):",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.logger",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.logger",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.logger",
+        "peekOfCode": "def get_logger() -> logging:\n    logger = MyLogger.__call__().get_logger()\n    return logger\ndef embrace(func):\n    logger = get_logger()\n    def wrapper(*args, **kwargs):\n        logger.info(\"Call function {}\".format(func.__name__), stack_info=True)\n        return func(*args, **kwargs)\n    return wrapper",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.logger",
+        "documentation": {}
+    },
+    {
+        "label": "embrace",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.logger",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.logger",
+        "peekOfCode": "def embrace(func):\n    logger = get_logger()\n    def wrapper(*args, **kwargs):\n        logger.info(\"Call function {}\".format(func.__name__), stack_info=True)\n        return func(*args, **kwargs)\n    return wrapper",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.logger",
+        "documentation": {}
+    },
+    {
+        "label": "SingletonType",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.singleton",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.singleton",
+        "peekOfCode": "class SingletonType(type):\n    _instances = {}\n    def __call__(cls, *args, **kwargs):\n        if cls not in cls._instances:\n            cls._instances[cls] = super(SingletonType, cls).__call__(*args, **kwargs)\n        return cls._instances[cls]",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.singleton",
+        "documentation": {}
+    },
+    {
+        "label": "number",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.test",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.test",
+        "peekOfCode": "class number(metaclass=SingletonClass):\n    # _num = None\n    def __init__(self, num):\n        print(\"here\")\n        self._num = num\n    def get_num(self):\n        return self._num\n    def set_num(self, value):\n        if isinstance(value, int):\n            self._num = value",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.test",
+        "documentation": {}
+    },
+    {
+        "label": "SingletonType",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.test",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.test",
+        "peekOfCode": "class SingletonType(type):\n    _instances = {}\n    def __call__(cls, *args, **kwargs):\n        if cls not in cls._instances:\n            cls._instances[cls] = super(SingletonType, cls).__call__(*args, **kwargs)\n        return cls._instances[cls]\n# python 3 style\nclass MyLogger(object, metaclass=SingletonType):\n    # __metaclass__ = SingletonType   # python 2 Style\n    _logger = None",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.test",
+        "documentation": {}
+    },
+    {
+        "label": "MyLogger",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.test",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.test",
+        "peekOfCode": "class MyLogger(object, metaclass=SingletonType):\n    # __metaclass__ = SingletonType   # python 2 Style\n    _logger = None\n    def __init__(self):\n        self._logger = logging.getLogger(\"crumbs\")\n        self._logger.setLevel(logging.DEBUG)\n        formatter = logging.Formatter('%(asctime)s\\t[%(levelname)s | %(filename)s:%(lineno)s] > %(message)s')\n        now = datetime.datetime.now()\n        dirname = \"./log\"\n        if not os.path.isdir(dirname):",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.test",
+        "documentation": {}
+    },
+    {
+        "label": "save_data_frame_to_csv",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.utils",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.utils",
+        "peekOfCode": "def save_data_frame_to_csv(data_frame:pandas.DataFrame, filename:str) ->None:\n    data_frame.to_csv(filename)\ndef get_git_root(path:str) -> str:\n    \"\"\"get parrent git path\n    Args:\n        path (str)\n    Returns:\n        str: parrent git path\n    \"\"\"\n    git_repo = git.Repo(path, search_parent_directories=True)",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_git_root",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.utils",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.utils",
+        "peekOfCode": "def get_git_root(path:str) -> str:\n    \"\"\"get parrent git path\n    Args:\n        path (str)\n    Returns:\n        str: parrent git path\n    \"\"\"\n    git_repo = git.Repo(path, search_parent_directories=True)\n    git_root = git_repo.git.rev_parse(\"--show-toplevel\")\n    return git_root",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_random_letter",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.utils",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.utils",
+        "peekOfCode": "def get_random_letter(length) -> str:\n    # choose from all ascii letter\n    letters = string.ascii_letters\n    result_str = ''.join(random.choice(letters) for _ in range(length))\n    return result_str\ndef read_config(path:str) -> dict:\n    \"\"\"read config file\n    Args:\n        path (str): path of config file\n    Raises:",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_config",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.utils",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.utils",
+        "peekOfCode": "def read_config(path:str) -> dict:\n    \"\"\"read config file\n    Args:\n        path (str): path of config file\n    Raises:\n        Exception: if file is not exists\n    Returns:\n        dict: config base on key and value\n    \"\"\"\n    if not os.path.exists(path):",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_xml",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.utils",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.utils",
+        "peekOfCode": "def read_xml(path):\n    with open(path, \"r\") as file:\n        xml_data = file.read()\n    root = ET.fromstring(xml_data)\n    res = [(elem.tag, elem.text) for elem in root.iter()]\n    sessionId=list(filter(lambda element : \"sessionId\" in element[0], res))[0][1]\n    baseSequenceId=list(filter(lambda element : \"baseSequenceId\" in element[0], res))[0][1]",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "Newton_Divided_Diff",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.interpolation.polynomial",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.interpolation.polynomial",
+        "peekOfCode": "class Newton_Divided_Diff(object):\n    \"\"\"Newton's Divided difference, produces coefficients of\n        interpolating polynomial\n    \"\"\"\n    def __init__(self, xpt: np.array, ypt: np.array) -> None:\n        # Calculates correct coefficients and graphs interpolating polynomial\n        self.xpt = xpt\n        self.ypt = ypt\n        self.NDD()\n        self.tval = np.linspace(min(self.xpt)-1, max(self.xpt)+1, 100)",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.interpolation.polynomial",
+        "documentation": {}
+    },
+    {
+        "label": "Lagrange_Divided_Diff",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.interpolation.polynomial",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.interpolation.polynomial",
+        "peekOfCode": "class Lagrange_Divided_Diff(object):\n    \"\"\"Larange polynomial\n    \"\"\"\n    def __init__(self, xpt: np.array, ypt: np.array) -> None:\n        self.xpt = xpt\n        self.ypt = ypt\n        self.f = lagrange(self.xpt, self.ypt)\n    def show_plot(self, path:str):\n        x_new = np.arange(-1.0, 20, 0.1)\n        fig = plt.figure(figsize = (10,8))",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.interpolation.polynomial",
+        "documentation": {}
+    },
+    {
+        "label": "NDD",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.interpolation.polynomial",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.interpolation.polynomial",
+        "peekOfCode": "def NDD(x,y):\n    n = len(x)\n    #Construct table and load xy pairs in first columns\n    A = np.zeros((n,n+1))\n    A[:,0]= x[:]\n    A[:,1]= y[:]\n    #Fill in Divided differences\n    for j in range(2,n+1):\n        for i in range(j-1,n):\n            A[i,j] = (A[i,j-1]-A[i-1,j-1]) / (A[i,0]-A[i-j+1,0])",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.interpolation.polynomial",
+        "documentation": {}
+    },
+    {
+        "label": "poly",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.interpolation.polynomial",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.interpolation.polynomial",
+        "peekOfCode": "def poly(t,x,p):\n    n = len(x)\n    out = p[n-1]\n    for i in range(n-2,-1,-1):\n        out = out*(t-x[i]) + p[i]\n    return out\nclass Newton_Divided_Diff(object):\n    \"\"\"Newton's Divided difference, produces coefficients of\n        interpolating polynomial\n    \"\"\"",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.interpolation.polynomial",
+        "documentation": {}
+    },
+    {
+        "label": "xpt",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.interpolation.polynomial",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.interpolation.polynomial",
+        "peekOfCode": "xpt = np.array([0,2,3,5, 10, 16, 18, 19])\nypt = np.array([1,5,0,8, 20, 11, 30, 50])\ndef NDD(x,y):\n    n = len(x)\n    #Construct table and load xy pairs in first columns\n    A = np.zeros((n,n+1))\n    A[:,0]= x[:]\n    A[:,1]= y[:]\n    #Fill in Divided differences\n    for j in range(2,n+1):",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.interpolation.polynomial",
+        "documentation": {}
+    },
+    {
+        "label": "ypt",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.interpolation.polynomial",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.interpolation.polynomial",
+        "peekOfCode": "ypt = np.array([1,5,0,8, 20, 11, 30, 50])\ndef NDD(x,y):\n    n = len(x)\n    #Construct table and load xy pairs in first columns\n    A = np.zeros((n,n+1))\n    A[:,0]= x[:]\n    A[:,1]= y[:]\n    #Fill in Divided differences\n    for j in range(2,n+1):\n        for i in range(j-1,n):",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.interpolation.polynomial",
+        "documentation": {}
+    },
+    {
+        "label": "execute_sql",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "def execute_sql(sql:str, postgres_config:dict):\n    \"\"\"execute sql postgresql\n    Args:\n        sql (str): Structured Query Language\n        postgres_config (dict): config of postgresql to connect database\n    \"\"\"\n    try:\n        connection = psycopg2.connect(database=postgres_config['postgresql']['db'],\n                                        host=postgres_config['postgresql']['host'],\n                                        user=postgres_config['postgresql']['user'],",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "drop_table",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "def drop_table(table_name:str):\n    # drop table\n    sql = '''DROP table IF EXISTS {} '''.format(table_name)\n    logger.info(\"drop table {}\".format(table_name))\n    sql = PostGresql.DROP_TABLE.value.replace('__TABLE_NAME__', table_name)\n    logger.info(sql)\n    execute_sql(sql, postgres_config)\n@embrace\ndef check_table_exists(table_name) -> bool:\n    try:",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "check_table_exists",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "def check_table_exists(table_name) -> bool:\n    try:\n        logger.info('Check_table_exists {}'.format(table_name))\n        connection = psycopg2.connect(database=postgres_config['postgresql']['db'],\n                                        host=postgres_config['postgresql']['host'],\n                                        user=postgres_config['postgresql']['user'],\n                                        password=postgres_config['postgresql']['passwd'],\n                                        port=postgres_config['postgresql']['port'])\n        cursor = connection.cursor()\n        connection.autocommit = True",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "updateTable",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "def updateTable(mobileId: str, price):\n    \"\"\"update value in table\n    Args:\n        mobileId (str): table name\n        price : value of field in table\n    \"\"\"\n    try:\n        connection = psycopg2.connect(database=postgres_config['postgresql']['db'],\n                                        host=postgres_config['postgresql']['host'],\n                                        user=postgres_config['postgresql']['user'],",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "import_data",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "def import_data(columns:tuple, data:tuple, table_name:str):\n    try:\n        logger.info('data to insert\\n{}'.format(data))\n        postgres_insert_query = \"\"\" INSERT INTO {} ({}) VALUES ({})\"\"\".format(table_name,\n                                                                              \",\".join(columns),\n                                                                              \", \".join([\"%s\"]*len(columns)))\n        logger.info(postgres_insert_query)\n        connection = psycopg2.connect(database=postgres_config['postgresql']['db'],\n                                    host=postgres_config['postgresql']['host'],\n                                    user=postgres_config['postgresql']['user'],",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "create_table_price_board",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "def create_table_price_board(table_name:str, postgres_config:dict):\n    logger.info(\"create table {}\".format(table_name))\n    sql = PostGresql.CREATE_PRICE_BOARD_TABLE.value.replace('__TABLE_NAME__', table_name)\n    logger.info(sql)\n    execute_sql(sql, postgres_config)\nif __name__ == \"__main__\":\n    if not check_table_exists(table_name='fpt_price_board'):\n        create_table_price_board('fpt_price_board', postgres_config)\n    else:\n        import_data(columns = ('cp', 'fv', 'mav', 'nstv', 'nstp', 'rsi', 'macdv', 'macdsignal',",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "postgres_config",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "postgres_config = read_config(CONFIG_POSTGRES)\nlogger = get_logger()\n@embrace\ndef execute_sql(sql:str, postgres_config:dict):\n    \"\"\"execute sql postgresql\n    Args:\n        sql (str): Structured Query Language\n        postgres_config (dict): config of postgresql to connect database\n    \"\"\"\n    try:",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "logger = get_logger()\n@embrace\ndef execute_sql(sql:str, postgres_config:dict):\n    \"\"\"execute sql postgresql\n    Args:\n        sql (str): Structured Query Language\n        postgres_config (dict): config of postgresql to connect database\n    \"\"\"\n    try:\n        connection = psycopg2.connect(database=postgres_config['postgresql']['db'],",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.postgres",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.postgres",
+        "peekOfCode": "conn = psycopg2.connect(database=\"test_db\",\n                        host=\"127.0.0.1\",\n                        user=\"postgres\",\n                        password=\"nqt123\",\n                        port=\"5432\")\nconn.autocommit = True\ncursor = conn.cursor()\nsql = '''CREATE TABLE vnstock(employee_id int NOT NULL,\\\nemployee_name char(20),\\\nemployee_email varchar(30), employee_salary float);'''",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "conn.autocommit",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.postgres",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.postgres",
+        "peekOfCode": "conn.autocommit = True\ncursor = conn.cursor()\nsql = '''CREATE TABLE vnstock(employee_id int NOT NULL,\\\nemployee_name char(20),\\\nemployee_email varchar(30), employee_salary float);'''\ncursor.execute(sql)\nconn.commit()\nconn.close()\npostgres_create_table = '''CREATE TABLE {}(exchange char(20) NOT NULL,\\\n                                    price float,\\",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "cursor",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.postgres",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.postgres",
+        "peekOfCode": "cursor = conn.cursor()\nsql = '''CREATE TABLE vnstock(employee_id int NOT NULL,\\\nemployee_name char(20),\\\nemployee_email varchar(30), employee_salary float);'''\ncursor.execute(sql)\nconn.commit()\nconn.close()\npostgres_create_table = '''CREATE TABLE {}(exchange char(20) NOT NULL,\\\n                                    price float,\\\n                                    industryID varchar(30),\\",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "sql",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.postgres",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.postgres",
+        "peekOfCode": "sql = '''CREATE TABLE vnstock(employee_id int NOT NULL,\\\nemployee_name char(20),\\\nemployee_email varchar(30), employee_salary float);'''\ncursor.execute(sql)\nconn.commit()\nconn.close()\npostgres_create_table = '''CREATE TABLE {}(exchange char(20) NOT NULL,\\\n                                    price float,\\\n                                    industryID varchar(30),\\\n                                    industry varchar(30),\\",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "postgres_create_table",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.postgres",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.postgres",
+        "peekOfCode": "postgres_create_table = '''CREATE TABLE {}(exchange char(20) NOT NULL,\\\n                                    price float,\\\n                                    industryID varchar(30),\\\n                                    industry varchar(30),\\\n                                    industryEn varchar(30),\\\n                                    establishedYear varchar(30),\\\n                                    noEmployees varchar(30),\\\n                                    noShareholders varchar(30),\\\n                                    foreignPercent varchar(30),\\\n                                    website varchar(30),\\",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.postgres_sql.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "Analysis",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "peekOfCode": "class Analysis():\n    symbol = \"\"\n    def __init__(self, symbol: str):\n        self.symbol = symbol\n        self.data_overview = self.get_base_information(symbol)\n    def get_base_information(self, symbol):\n        data = requests.get(\n            'https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/{}/overview'.format(symbol)).json()\n        df = json_normalize(data)\n        return df",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "stock_historical_data_test",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "peekOfCode": "def stock_historical_data_test(symbol=\"FPT\", start_date=\"2023-05-06\", end_date=\"2023-07-29\"):\n    \"\"\"\n    This function returns the stock historical daily data.\n    Args:\n        symbol (:obj:`str`, required): 3 digits name of the desired stock.\n        start_date (:obj:`str`, required): the start date to get data (YYYY-mm-dd).\n        end_date (:obj:`str`, required): the end date to get data (YYYY-mm-dd).\n    Returns:\n        :obj:`pandas.DataFrame`:\n        | tradingDate | open | high | low | close | volume |",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "get_latest_indices",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "peekOfCode": "def get_latest_indices(headers=stock_headers):\n    \"\"\"\n    Retrieve the latest indices values\n    \"\"\"\n    url = \"https://fiin-market.ssi.com.vn/MarketInDepth/GetLatestIndices?language=vi&pageSize=999999&status=1\"\n    payload = {}\n    response = requests.request(\"GET\", url, headers=headers, data=payload)\n    with open(latest_indices_file_json, 'w') as data:\n        json.dump(response.json(), data, indent=4)\n    result = json_normalize(response.json()['items'])",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "test_symbol_dig_fpt",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "peekOfCode": "def test_symbol_dig_fpt():\n    Ana = Analysis(\"DIG\")\n    data = Ana.get_data_overview()\n    column_name = data.columns.values.tolist()\n    logger.info(f\"data of the {Ana.get_stock_symbol()} is\\n {data}\")\n    logger.info(f\"{column_name}\")\n    column_name_company_overview = Ana.company_overview().columns.values.tolist()\n    logger.info(f\"company overview is\\n {Ana.company_overview()}\")\n    logger.info(f\"{column_name_company_overview}\")\n    history_fpt = stock_historical_data_test()",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "price_board_stock",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "peekOfCode": "def price_board_stock(symbol_ls):\n    \"\"\"\n    This function returns the trading price board of a target stocks list.\n    Args:\n        symbol_ls (:obj:`str`, required): STRING list of symbols separated by \",\" without any space. Ex: \"TCB,SSI,BID\"\n    \"\"\"\n    data = requests.get(\n        'https://apipubaws.tcbs.com.vn/stock-insight/v1/stock/second-tc-price?tickers={}'.format(symbol_ls)).json()\n    df = json_normalize(data['data'])\n    # drop columns named seq",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "fpt",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "peekOfCode": "def fpt():\n    fpt = Analysis(Tech.FPT)\n    save_data_frame_to_csv(fpt.company_overview(), os.path.join(\n        os.path.dirname(__file__), \"fpt.csv\"))\n    save_data_frame_to_csv(price_board_stock(Tech.FPT), os.path.join(\n        os.path.dirname(__file__), \"fpt_price_board.csv\"))",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "peekOfCode": "logger = get_logger()\ncsv_filename = \"{}/vnstock.csv\".format(os.path.dirname(__file__))\nlatest_indices_file = \"{}/latest_indices.csv\".format(os.path.dirname(__file__))\nlatest_indices_file_json = \"{}/latest_indices.json\".format(os.path.dirname(__file__))\n# STOCK TRADING HISTORICAL DATA\ndef stock_historical_data_test(symbol=\"FPT\", start_date=\"2023-05-06\", end_date=\"2023-07-29\"):\n    \"\"\"\n    This function returns the stock historical daily data.\n    Args:\n        symbol (:obj:`str`, required): 3 digits name of the desired stock.",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "csv_filename",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "peekOfCode": "csv_filename = \"{}/vnstock.csv\".format(os.path.dirname(__file__))\nlatest_indices_file = \"{}/latest_indices.csv\".format(os.path.dirname(__file__))\nlatest_indices_file_json = \"{}/latest_indices.json\".format(os.path.dirname(__file__))\n# STOCK TRADING HISTORICAL DATA\ndef stock_historical_data_test(symbol=\"FPT\", start_date=\"2023-05-06\", end_date=\"2023-07-29\"):\n    \"\"\"\n    This function returns the stock historical daily data.\n    Args:\n        symbol (:obj:`str`, required): 3 digits name of the desired stock.\n        start_date (:obj:`str`, required): the start date to get data (YYYY-mm-dd).",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "latest_indices_file",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "peekOfCode": "latest_indices_file = \"{}/latest_indices.csv\".format(os.path.dirname(__file__))\nlatest_indices_file_json = \"{}/latest_indices.json\".format(os.path.dirname(__file__))\n# STOCK TRADING HISTORICAL DATA\ndef stock_historical_data_test(symbol=\"FPT\", start_date=\"2023-05-06\", end_date=\"2023-07-29\"):\n    \"\"\"\n    This function returns the stock historical daily data.\n    Args:\n        symbol (:obj:`str`, required): 3 digits name of the desired stock.\n        start_date (:obj:`str`, required): the start date to get data (YYYY-mm-dd).\n        end_date (:obj:`str`, required): the end date to get data (YYYY-mm-dd).",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "latest_indices_file_json",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "peekOfCode": "latest_indices_file_json = \"{}/latest_indices.json\".format(os.path.dirname(__file__))\n# STOCK TRADING HISTORICAL DATA\ndef stock_historical_data_test(symbol=\"FPT\", start_date=\"2023-05-06\", end_date=\"2023-07-29\"):\n    \"\"\"\n    This function returns the stock historical daily data.\n    Args:\n        symbol (:obj:`str`, required): 3 digits name of the desired stock.\n        start_date (:obj:`str`, required): the start date to get data (YYYY-mm-dd).\n        end_date (:obj:`str`, required): the end date to get data (YYYY-mm-dd).\n    Returns:",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "read_yaml",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.read_yaml",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.read_yaml",
+        "peekOfCode": "def read_yaml(path:str)->dict:\n    \"\"\"read yaml file by path\n    Args:\n        path (str): _description_\n    Returns:\n        dict: data of yaml file\n    \"\"\"\n    data_bytes = open(\"/home/ziuteng/ncd_proj/ncd_project/microservice/vnstock/vnstock.yml\" , \"r\")\n    yaml_data = yaml.load(data_bytes, Loader=yaml.FullLoader)\n    return yaml_data",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.read_yaml",
+        "documentation": {}
+    },
+    {
+        "label": "pFactors",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.test",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.test",
+        "peekOfCode": "def pFactors(n):\n    \"\"\"Finds the prime factors of 'n'\"\"\"\n    pFact, limit, check, num = [], int(sqrt(n)) + 1, 2, n\n    if n == 1: return [1]\n    for check in range(2, limit):\n            while num % check == 0:\n                pFact.append(check)\n                num /= check\n    if num > 1:\n        pFact.append(num)",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.test",
+        "documentation": {}
+    },
+    {
+        "label": "stock_headers",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.utlis",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.utlis",
+        "peekOfCode": "stock_headers = {\n        'Connection': 'keep-alive',\n        'sec-ch-ua': '\"Not A;Brand\";v=\"99\", \"Chromium\";v=\"98\", \"Google Chrome\";v=\"98\"',\n        'DNT': '1',\n        'sec-ch-ua-mobile': '?0',\n        'X-Fiin-Key': 'KEY',\n        'Content-Type': 'application/json',\n        'Accept': 'application/json',\n        'X-Fiin-User-ID': 'ID',\n        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36',",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.utlis",
+        "documentation": {}
+    },
+    {
+        "label": "listing_companies_test",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.vnstock",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.vnstock",
+        "peekOfCode": "def listing_companies_test():\n    url = 'https://fiin-core.ssi.com.vn/Master/GetListOrganization?language=vi'\n    r = api_request_test(url)\n    print(r)\n    df = pd.DataFrame(r['items']).drop(columns=['organCode', 'icbCode', 'organTypeCode', 'comTypeCode']).rename(columns={'comGroupCode': 'group_code', 'organName': 'company_name', 'organShortName':'company_short_name'})\n    return df\ndef api_request_test(url, headers=headers):\n    print(\"api_request_test\")\n    r = requests.get(url, headers).json()\n    return r",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.vnstock",
+        "documentation": {}
+    },
+    {
+        "label": "api_request_test",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.vnstock",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.vnstock",
+        "peekOfCode": "def api_request_test(url, headers=headers):\n    print(\"api_request_test\")\n    r = requests.get(url, headers).json()\n    return r\ndef ticker_overview_test(symbol):\n    data = requests.get('https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/{}/overview'.format(symbol)).json()\n    df = json_normalize(data)\n    return df\ndef get_latest_indices_test(headers=headers):\n    \"\"\"",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.vnstock",
+        "documentation": {}
+    },
+    {
+        "label": "ticker_overview_test",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.vnstock",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.vnstock",
+        "peekOfCode": "def ticker_overview_test(symbol):\n    data = requests.get('https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/{}/overview'.format(symbol)).json()\n    df = json_normalize(data)\n    return df\ndef get_latest_indices_test(headers=headers):\n    \"\"\"\n    Retrieve the latest indices values\n    \"\"\"\n    url = \"https://fiin-market.ssi.com.vn/MarketInDepth/GetLatestIndices?language=vi&pageSize=999999&status=1\"\n    payload={}",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.vnstock",
+        "documentation": {}
+    },
+    {
+        "label": "get_latest_indices_test",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.vnstock",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.vnstock",
+        "peekOfCode": "def get_latest_indices_test(headers=headers):\n    \"\"\"\n    Retrieve the latest indices values\n    \"\"\"\n    url = \"https://fiin-market.ssi.com.vn/MarketInDepth/GetLatestIndices?language=vi&pageSize=999999&status=1\"\n    payload={}\n    response = requests.request(\"GET\", url, headers=headers, data=payload)\n    result = json_normalize(response.json()['items'])\n    return result\nif __name__  == \"__main__\":",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.vnstock",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.vnstock",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.vnstock",
+        "peekOfCode": "headers = {\n        'Connection': 'keep-alive',\n        'sec-ch-ua': '\"Not A;Brand\";v=\"99\", \"Chromium\";v=\"98\", \"Google Chrome\";v=\"98\"',\n        'DNT': '1',\n        'sec-ch-ua-mobile': '?0',\n        'X-Fiin-Key': 'KEY',\n        'Content-Type': 'application/json',\n        'Accept': 'application/json',\n        'X-Fiin-User-ID': 'ID',\n        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36',",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.microservice.vn_stock.vnstock",
+        "documentation": {}
+    },
+    {
+        "label": "BaseConfig",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.test.lib.config",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.test.lib.config",
+        "peekOfCode": "class BaseConfig(configparser.ConfigParser):\n    def __init__(self, *arg):\n        config = configparser.ConfigParser()\n        config.read(arg[0])\n# class Config_pas",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.test.lib.config",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.test.lib.pgadmin4_manager",
+        "description": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.test.lib.pgadmin4_manager",
+        "peekOfCode": "client = docker.from_env()",
+        "detail": "jenkin_ci.jenkins_data.workspace.Freestyle-docker.test.lib.pgadmin4_manager",
+        "documentation": {}
+    },
+    {
+        "label": "MyServer",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.NCD_service.NCD_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.NCD_service.NCD_Adapter",
+        "peekOfCode": "class MyServer(NCD_http_request_handler):\n    @embrace\n    def do_GET(self):\n        logger.info(\"path: {}\".format(self.path))\n        if \"/\" == self.path:\n            self.login_html_index()\n            return\n        elif \"/\" in self.path and \".\" in self.path:\n            self.path = \"/microservice/NCD_service/GUI/Login_v1\" +self.path\n            super().do_GET()",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.NCD_service.NCD_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.NCD_service.NCD_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.NCD_service.NCD_Adapter",
+        "peekOfCode": "logger = logging\nlogger.basicConfig(filename='{}/log_controler/app.log'.format(os.getcwd()),\n                   level=logging.INFO,\n                   filemode='w',\n                   format='%(asctime)s - %(filename)s - %(levelname)s - %(message)s')\nhostName = \"0.0.0.0\"\nserverPort = int(os.environ['PORT'])\nclass MyServer(NCD_http_request_handler):\n    @embrace\n    def do_GET(self):",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.NCD_service.NCD_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "hostName",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.NCD_service.NCD_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.NCD_service.NCD_Adapter",
+        "peekOfCode": "hostName = \"0.0.0.0\"\nserverPort = int(os.environ['PORT'])\nclass MyServer(NCD_http_request_handler):\n    @embrace\n    def do_GET(self):\n        logger.info(\"path: {}\".format(self.path))\n        if \"/\" == self.path:\n            self.login_html_index()\n            return\n        elif \"/\" in self.path and \".\" in self.path:",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.NCD_service.NCD_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "serverPort",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.NCD_service.NCD_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.NCD_service.NCD_Adapter",
+        "peekOfCode": "serverPort = int(os.environ['PORT'])\nclass MyServer(NCD_http_request_handler):\n    @embrace\n    def do_GET(self):\n        logger.info(\"path: {}\".format(self.path))\n        if \"/\" == self.path:\n            self.login_html_index()\n            return\n        elif \"/\" in self.path and \".\" in self.path:\n            self.path = \"/microservice/NCD_service/GUI/Login_v1\" +self.path",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.NCD_service.NCD_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "NCD_http_request_handler",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.base_http_server",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.base_http_server",
+        "peekOfCode": "class NCD_http_request_handler(SimpleHTTPRequestHandler):\n    def version_string(self):\n        \"\"\"override version_string to ensure all responses does not include\n        Returns:\n            _type_: _description_\n        \"\"\"\n        return \"NCD Service\"",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.base_http_server",
+        "documentation": {}
+    },
+    {
+        "label": "_StrEnum",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "peekOfCode": "class _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'\n    VAR_CHAR_30 = 'varchar(30)'\n    NOT_NULL = 'NOT NULL'\n    CREATE_PRICE_BOARD_TABLE = f'''CREATE TABLE __TABLE_NAME__ (\\\n                                    cp {FLOAT} {NOT_NULL},\\\n                                    fv {FLOAT} {NOT_NULL},\\",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "PostGresql",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "peekOfCode": "class PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'\n    VAR_CHAR_30 = 'varchar(30)'\n    NOT_NULL = 'NOT NULL'\n    CREATE_PRICE_BOARD_TABLE = f'''CREATE TABLE __TABLE_NAME__ (\\\n                                    cp {FLOAT} {NOT_NULL},\\\n                                    fv {FLOAT} {NOT_NULL},\\\n                                    mav {FLOAT} {NOT_NULL},\\\n                                    nstv {FLOAT} {NOT_NULL},\\",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "StockIndex",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "peekOfCode": "class StockIndex(_StrEnum):\n    __doc__ = \"\"\"Index in stock, with each index perfom kind of infor within reflect market sentiment,\n            investment decision will be based on all index,\"\"\"\n    VOLUMN = 'Volumn'\n    ROE = 'state2'\n    PE = \"Price to Earning Ratio (PER)\"\n    EPS = \"\"\n    DPR = \"\"\n    ROA = \"\"\n    PB = \"\"",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "CompanyProperty",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "peekOfCode": "class CompanyProperty(str, Enum):\n    __doc__ = \"\"\"Dividends are a sum of money paid regularly (typically quarterly or anually)\n    by a company to its shareholders profits after fulfilling the tax obligation\n    and deducting other expenses of that company.\"\"\"\n    TIME_DIVIDENDS = 360\n    DIVIDENDS_QUARTERLY = \"Typically quarterly\"\n    DIVIDENDS_ANUALLY = \"Anually\"\nclass MarketPsychology(str, Enum):\n    __doc__= \"\"\"The CBOE Volatility Index (VIX) is a real-time index\n    that represents the market is expectations for the relative strength",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "MarketPsychology",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "peekOfCode": "class MarketPsychology(str, Enum):\n    __doc__= \"\"\"The CBOE Volatility Index (VIX) is a real-time index\n    that represents the market is expectations for the relative strength\n    of near-term price changes of the S&P 500 Index (SPX).\"\"\"\n    VIX = \"\"\nclass Tech:\n    FPT = \"FPT\"",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "Tech",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "peekOfCode": "class Tech:\n    FPT = \"FPT\"",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "REPO_DIR",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "peekOfCode": "REPO_DIR = get_git_root(__file__)\nLOG = os.path.join(REPO_DIR, \"log\", \"app{}.log\")\nMICROSERVICE = os.path.join(REPO_DIR, \"microservice\")\nCOMMON = os.path.join(MICROSERVICE, \"Common\")\nPOSTGRES = os.path.join(MICROSERVICE, \"postgres_sql\")\nCONFIG_POSTGRES = os.path.join(POSTGRES, \"Postgres.cfg\")\nclass _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "LOG",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "peekOfCode": "LOG = os.path.join(REPO_DIR, \"log\", \"app{}.log\")\nMICROSERVICE = os.path.join(REPO_DIR, \"microservice\")\nCOMMON = os.path.join(MICROSERVICE, \"Common\")\nPOSTGRES = os.path.join(MICROSERVICE, \"postgres_sql\")\nCONFIG_POSTGRES = os.path.join(POSTGRES, \"Postgres.cfg\")\nclass _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "MICROSERVICE",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "peekOfCode": "MICROSERVICE = os.path.join(REPO_DIR, \"microservice\")\nCOMMON = os.path.join(MICROSERVICE, \"Common\")\nPOSTGRES = os.path.join(MICROSERVICE, \"postgres_sql\")\nCONFIG_POSTGRES = os.path.join(POSTGRES, \"Postgres.cfg\")\nclass _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'\n    VAR_CHAR_30 = 'varchar(30)'",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "COMMON",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "peekOfCode": "COMMON = os.path.join(MICROSERVICE, \"Common\")\nPOSTGRES = os.path.join(MICROSERVICE, \"postgres_sql\")\nCONFIG_POSTGRES = os.path.join(POSTGRES, \"Postgres.cfg\")\nclass _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'\n    VAR_CHAR_30 = 'varchar(30)'\n    NOT_NULL = 'NOT NULL'",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "POSTGRES",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "peekOfCode": "POSTGRES = os.path.join(MICROSERVICE, \"postgres_sql\")\nCONFIG_POSTGRES = os.path.join(POSTGRES, \"Postgres.cfg\")\nclass _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'\n    VAR_CHAR_30 = 'varchar(30)'\n    NOT_NULL = 'NOT NULL'\n    CREATE_PRICE_BOARD_TABLE = f'''CREATE TABLE __TABLE_NAME__ (\\",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIG_POSTGRES",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "peekOfCode": "CONFIG_POSTGRES = os.path.join(POSTGRES, \"Postgres.cfg\")\nclass _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'\n    VAR_CHAR_30 = 'varchar(30)'\n    NOT_NULL = 'NOT NULL'\n    CREATE_PRICE_BOARD_TABLE = f'''CREATE TABLE __TABLE_NAME__ (\\\n                                    cp {FLOAT} {NOT_NULL},\\",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "MyLogger",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.logger",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.logger",
+        "peekOfCode": "class MyLogger(object, metaclass=SingletonType):\n    _logger = None\n    def __init__(self):\n        self._logger = logging.getLogger(\"crumbs\")\n        self._logger.setLevel(logging.DEBUG)\n        formatter = logging.Formatter('%(asctime)s [%(levelname)s | %(filename)s:%(lineno)s] > %(message)s')\n        # Generate new instance\n        now = datetime.datetime.now()\n        dirname = os.path.dirname(LOG)\n        if not os.path.isdir(dirname):",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.logger",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.logger",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.logger",
+        "peekOfCode": "def get_logger() -> logging:\n    logger = MyLogger.__call__().get_logger()\n    return logger\ndef embrace(func):\n    logger = get_logger()\n    def wrapper(*args, **kwargs):\n        logger.info(\"Call function {}\".format(func.__name__), stack_info=True)\n        return func(*args, **kwargs)\n    return wrapper",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.logger",
+        "documentation": {}
+    },
+    {
+        "label": "embrace",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.logger",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.logger",
+        "peekOfCode": "def embrace(func):\n    logger = get_logger()\n    def wrapper(*args, **kwargs):\n        logger.info(\"Call function {}\".format(func.__name__), stack_info=True)\n        return func(*args, **kwargs)\n    return wrapper",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.logger",
+        "documentation": {}
+    },
+    {
+        "label": "SingletonType",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.singleton",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.singleton",
+        "peekOfCode": "class SingletonType(type):\n    _instances = {}\n    def __call__(cls, *args, **kwargs):\n        if cls not in cls._instances:\n            cls._instances[cls] = super(SingletonType, cls).__call__(*args, **kwargs)\n        return cls._instances[cls]",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.singleton",
+        "documentation": {}
+    },
+    {
+        "label": "number",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.test",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.test",
+        "peekOfCode": "class number(metaclass=SingletonClass):\n    # _num = None\n    def __init__(self, num):\n        print(\"here\")\n        self._num = num\n    def get_num(self):\n        return self._num\n    def set_num(self, value):\n        if isinstance(value, int):\n            self._num = value",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.test",
+        "documentation": {}
+    },
+    {
+        "label": "SingletonType",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.test",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.test",
+        "peekOfCode": "class SingletonType(type):\n    _instances = {}\n    def __call__(cls, *args, **kwargs):\n        if cls not in cls._instances:\n            cls._instances[cls] = super(SingletonType, cls).__call__(*args, **kwargs)\n        return cls._instances[cls]\n# python 3 style\nclass MyLogger(object, metaclass=SingletonType):\n    # __metaclass__ = SingletonType   # python 2 Style\n    _logger = None",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.test",
+        "documentation": {}
+    },
+    {
+        "label": "MyLogger",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.test",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.test",
+        "peekOfCode": "class MyLogger(object, metaclass=SingletonType):\n    # __metaclass__ = SingletonType   # python 2 Style\n    _logger = None\n    def __init__(self):\n        self._logger = logging.getLogger(\"crumbs\")\n        self._logger.setLevel(logging.DEBUG)\n        formatter = logging.Formatter('%(asctime)s\\t[%(levelname)s | %(filename)s:%(lineno)s] > %(message)s')\n        now = datetime.datetime.now()\n        dirname = \"./log\"\n        if not os.path.isdir(dirname):",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.test",
+        "documentation": {}
+    },
+    {
+        "label": "save_data_frame_to_csv",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.utils",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.utils",
+        "peekOfCode": "def save_data_frame_to_csv(data_frame:pandas.DataFrame, filename:str) ->None:\n    data_frame.to_csv(filename)\ndef get_git_root(path:str) -> str:\n    \"\"\"get parrent git path\n    Args:\n        path (str)\n    Returns:\n        str: parrent git path\n    \"\"\"\n    git_repo = git.Repo(path, search_parent_directories=True)",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_git_root",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.utils",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.utils",
+        "peekOfCode": "def get_git_root(path:str) -> str:\n    \"\"\"get parrent git path\n    Args:\n        path (str)\n    Returns:\n        str: parrent git path\n    \"\"\"\n    git_repo = git.Repo(path, search_parent_directories=True)\n    git_root = git_repo.git.rev_parse(\"--show-toplevel\")\n    return git_root",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_random_letter",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.utils",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.utils",
+        "peekOfCode": "def get_random_letter(length) -> str:\n    # choose from all ascii letter\n    letters = string.ascii_letters\n    result_str = ''.join(random.choice(letters) for _ in range(length))\n    return result_str\ndef read_config(path:str) -> dict:\n    \"\"\"read config file\n    Args:\n        path (str): path of config file\n    Raises:",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_config",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.utils",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.utils",
+        "peekOfCode": "def read_config(path:str) -> dict:\n    \"\"\"read config file\n    Args:\n        path (str): path of config file\n    Raises:\n        Exception: if file is not exists\n    Returns:\n        dict: config base on key and value\n    \"\"\"\n    if not os.path.exists(path):",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_xml",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.utils",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.utils",
+        "peekOfCode": "def read_xml(path):\n    with open(path, \"r\") as file:\n        xml_data = file.read()\n    root = ET.fromstring(xml_data)\n    res = [(elem.tag, elem.text) for elem in root.iter()]\n    sessionId=list(filter(lambda element : \"sessionId\" in element[0], res))[0][1]\n    baseSequenceId=list(filter(lambda element : \"baseSequenceId\" in element[0], res))[0][1]",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "Newton_Divided_Diff",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.interpolation.polynomial",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.interpolation.polynomial",
+        "peekOfCode": "class Newton_Divided_Diff(object):\n    \"\"\"Newton's Divided difference, produces coefficients of\n        interpolating polynomial\n    \"\"\"\n    def __init__(self, xpt: np.array, ypt: np.array) -> None:\n        # Calculates correct coefficients and graphs interpolating polynomial\n        self.xpt = xpt\n        self.ypt = ypt\n        self.NDD()\n        self.tval = np.linspace(min(self.xpt)-1, max(self.xpt)+1, 100)",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.interpolation.polynomial",
+        "documentation": {}
+    },
+    {
+        "label": "Lagrange_Divided_Diff",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.interpolation.polynomial",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.interpolation.polynomial",
+        "peekOfCode": "class Lagrange_Divided_Diff(object):\n    \"\"\"Larange polynomial\n    \"\"\"\n    def __init__(self, xpt: np.array, ypt: np.array) -> None:\n        self.xpt = xpt\n        self.ypt = ypt\n        self.f = lagrange(self.xpt, self.ypt)\n    def show_plot(self, path:str):\n        x_new = np.arange(-1.0, 20, 0.1)\n        fig = plt.figure(figsize = (10,8))",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.interpolation.polynomial",
+        "documentation": {}
+    },
+    {
+        "label": "NDD",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.interpolation.polynomial",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.interpolation.polynomial",
+        "peekOfCode": "def NDD(x,y):\n    n = len(x)\n    #Construct table and load xy pairs in first columns\n    A = np.zeros((n,n+1))\n    A[:,0]= x[:]\n    A[:,1]= y[:]\n    #Fill in Divided differences\n    for j in range(2,n+1):\n        for i in range(j-1,n):\n            A[i,j] = (A[i,j-1]-A[i-1,j-1]) / (A[i,0]-A[i-j+1,0])",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.interpolation.polynomial",
+        "documentation": {}
+    },
+    {
+        "label": "poly",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.interpolation.polynomial",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.interpolation.polynomial",
+        "peekOfCode": "def poly(t,x,p):\n    n = len(x)\n    out = p[n-1]\n    for i in range(n-2,-1,-1):\n        out = out*(t-x[i]) + p[i]\n    return out\nclass Newton_Divided_Diff(object):\n    \"\"\"Newton's Divided difference, produces coefficients of\n        interpolating polynomial\n    \"\"\"",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.interpolation.polynomial",
+        "documentation": {}
+    },
+    {
+        "label": "xpt",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.interpolation.polynomial",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.interpolation.polynomial",
+        "peekOfCode": "xpt = np.array([0,2,3,5, 10, 16, 18, 19])\nypt = np.array([1,5,0,8, 20, 11, 30, 50])\ndef NDD(x,y):\n    n = len(x)\n    #Construct table and load xy pairs in first columns\n    A = np.zeros((n,n+1))\n    A[:,0]= x[:]\n    A[:,1]= y[:]\n    #Fill in Divided differences\n    for j in range(2,n+1):",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.interpolation.polynomial",
+        "documentation": {}
+    },
+    {
+        "label": "ypt",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.interpolation.polynomial",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.interpolation.polynomial",
+        "peekOfCode": "ypt = np.array([1,5,0,8, 20, 11, 30, 50])\ndef NDD(x,y):\n    n = len(x)\n    #Construct table and load xy pairs in first columns\n    A = np.zeros((n,n+1))\n    A[:,0]= x[:]\n    A[:,1]= y[:]\n    #Fill in Divided differences\n    for j in range(2,n+1):\n        for i in range(j-1,n):",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.interpolation.polynomial",
+        "documentation": {}
+    },
+    {
+        "label": "execute_sql",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "def execute_sql(sql:str, postgres_config:dict):\n    \"\"\"execute sql postgresql\n    Args:\n        sql (str): Structured Query Language\n        postgres_config (dict): config of postgresql to connect database\n    \"\"\"\n    try:\n        connection = psycopg2.connect(database=postgres_config['postgresql']['db'],\n                                        host=postgres_config['postgresql']['host'],\n                                        user=postgres_config['postgresql']['user'],",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "drop_table",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "def drop_table(table_name:str):\n    # drop table\n    sql = '''DROP table IF EXISTS {} '''.format(table_name)\n    logger.info(\"drop table {}\".format(table_name))\n    sql = PostGresql.DROP_TABLE.value.replace('__TABLE_NAME__', table_name)\n    logger.info(sql)\n    execute_sql(sql, postgres_config)\n@embrace\ndef check_table_exists(table_name) -> bool:\n    try:",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "check_table_exists",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "def check_table_exists(table_name) -> bool:\n    try:\n        logger.info('Check_table_exists {}'.format(table_name))\n        connection = psycopg2.connect(database=postgres_config['postgresql']['db'],\n                                        host=postgres_config['postgresql']['host'],\n                                        user=postgres_config['postgresql']['user'],\n                                        password=postgres_config['postgresql']['passwd'],\n                                        port=postgres_config['postgresql']['port'])\n        cursor = connection.cursor()\n        connection.autocommit = True",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "updateTable",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "def updateTable(mobileId: str, price):\n    \"\"\"update value in table\n    Args:\n        mobileId (str): table name\n        price : value of field in table\n    \"\"\"\n    try:\n        connection = psycopg2.connect(database=postgres_config['postgresql']['db'],\n                                        host=postgres_config['postgresql']['host'],\n                                        user=postgres_config['postgresql']['user'],",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "import_data",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "def import_data(columns:tuple, data:tuple, table_name:str):\n    try:\n        logger.info('data to insert\\n{}'.format(data))\n        postgres_insert_query = \"\"\" INSERT INTO {} ({}) VALUES ({})\"\"\".format(table_name,\n                                                                              \",\".join(columns),\n                                                                              \", \".join([\"%s\"]*len(columns)))\n        logger.info(postgres_insert_query)\n        connection = psycopg2.connect(database=postgres_config['postgresql']['db'],\n                                    host=postgres_config['postgresql']['host'],\n                                    user=postgres_config['postgresql']['user'],",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "create_table_price_board",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "def create_table_price_board(table_name:str, postgres_config:dict):\n    logger.info(\"create table {}\".format(table_name))\n    sql = PostGresql.CREATE_PRICE_BOARD_TABLE.value.replace('__TABLE_NAME__', table_name)\n    logger.info(sql)\n    execute_sql(sql, postgres_config)\nif __name__ == \"__main__\":\n    if not check_table_exists(table_name='fpt_price_board'):\n        create_table_price_board('fpt_price_board', postgres_config)\n    else:\n        import_data(columns = ('cp', 'fv', 'mav', 'nstv', 'nstp', 'rsi', 'macdv', 'macdsignal',",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "postgres_config",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "postgres_config = read_config(CONFIG_POSTGRES)\nlogger = get_logger()\n@embrace\ndef execute_sql(sql:str, postgres_config:dict):\n    \"\"\"execute sql postgresql\n    Args:\n        sql (str): Structured Query Language\n        postgres_config (dict): config of postgresql to connect database\n    \"\"\"\n    try:",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "logger = get_logger()\n@embrace\ndef execute_sql(sql:str, postgres_config:dict):\n    \"\"\"execute sql postgresql\n    Args:\n        sql (str): Structured Query Language\n        postgres_config (dict): config of postgresql to connect database\n    \"\"\"\n    try:\n        connection = psycopg2.connect(database=postgres_config['postgresql']['db'],",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.postgres",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.postgres",
+        "peekOfCode": "conn = psycopg2.connect(database=\"test_db\",\n                        host=\"127.0.0.1\",\n                        user=\"postgres\",\n                        password=\"nqt123\",\n                        port=\"5432\")\nconn.autocommit = True\ncursor = conn.cursor()\nsql = '''CREATE TABLE vnstock(employee_id int NOT NULL,\\\nemployee_name char(20),\\\nemployee_email varchar(30), employee_salary float);'''",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "conn.autocommit",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.postgres",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.postgres",
+        "peekOfCode": "conn.autocommit = True\ncursor = conn.cursor()\nsql = '''CREATE TABLE vnstock(employee_id int NOT NULL,\\\nemployee_name char(20),\\\nemployee_email varchar(30), employee_salary float);'''\ncursor.execute(sql)\nconn.commit()\nconn.close()\npostgres_create_table = '''CREATE TABLE {}(exchange char(20) NOT NULL,\\\n                                    price float,\\",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "cursor",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.postgres",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.postgres",
+        "peekOfCode": "cursor = conn.cursor()\nsql = '''CREATE TABLE vnstock(employee_id int NOT NULL,\\\nemployee_name char(20),\\\nemployee_email varchar(30), employee_salary float);'''\ncursor.execute(sql)\nconn.commit()\nconn.close()\npostgres_create_table = '''CREATE TABLE {}(exchange char(20) NOT NULL,\\\n                                    price float,\\\n                                    industryID varchar(30),\\",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "sql",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.postgres",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.postgres",
+        "peekOfCode": "sql = '''CREATE TABLE vnstock(employee_id int NOT NULL,\\\nemployee_name char(20),\\\nemployee_email varchar(30), employee_salary float);'''\ncursor.execute(sql)\nconn.commit()\nconn.close()\npostgres_create_table = '''CREATE TABLE {}(exchange char(20) NOT NULL,\\\n                                    price float,\\\n                                    industryID varchar(30),\\\n                                    industry varchar(30),\\",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "postgres_create_table",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.postgres",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.postgres",
+        "peekOfCode": "postgres_create_table = '''CREATE TABLE {}(exchange char(20) NOT NULL,\\\n                                    price float,\\\n                                    industryID varchar(30),\\\n                                    industry varchar(30),\\\n                                    industryEn varchar(30),\\\n                                    establishedYear varchar(30),\\\n                                    noEmployees varchar(30),\\\n                                    noShareholders varchar(30),\\\n                                    foreignPercent varchar(30),\\\n                                    website varchar(30),\\",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.postgres_sql.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "Analysis",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "peekOfCode": "class Analysis():\n    symbol = \"\"\n    def __init__(self, symbol: str):\n        self.symbol = symbol\n        self.data_overview = self.get_base_information(symbol)\n    def get_base_information(self, symbol):\n        data = requests.get(\n            'https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/{}/overview'.format(symbol)).json()\n        df = json_normalize(data)\n        return df",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "stock_historical_data_test",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "peekOfCode": "def stock_historical_data_test(symbol=\"FPT\", start_date=\"2023-05-06\", end_date=\"2023-07-29\"):\n    \"\"\"\n    This function returns the stock historical daily data.\n    Args:\n        symbol (:obj:`str`, required): 3 digits name of the desired stock.\n        start_date (:obj:`str`, required): the start date to get data (YYYY-mm-dd).\n        end_date (:obj:`str`, required): the end date to get data (YYYY-mm-dd).\n    Returns:\n        :obj:`pandas.DataFrame`:\n        | tradingDate | open | high | low | close | volume |",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "get_latest_indices",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "peekOfCode": "def get_latest_indices(headers=stock_headers):\n    \"\"\"\n    Retrieve the latest indices values\n    \"\"\"\n    url = \"https://fiin-market.ssi.com.vn/MarketInDepth/GetLatestIndices?language=vi&pageSize=999999&status=1\"\n    payload = {}\n    response = requests.request(\"GET\", url, headers=headers, data=payload)\n    with open(latest_indices_file_json, 'w') as data:\n        json.dump(response.json(), data, indent=4)\n    result = json_normalize(response.json()['items'])",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "test_symbol_dig_fpt",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "peekOfCode": "def test_symbol_dig_fpt():\n    Ana = Analysis(\"DIG\")\n    data = Ana.get_data_overview()\n    column_name = data.columns.values.tolist()\n    logger.info(f\"data of the {Ana.get_stock_symbol()} is\\n {data}\")\n    logger.info(f\"{column_name}\")\n    column_name_company_overview = Ana.company_overview().columns.values.tolist()\n    logger.info(f\"company overview is\\n {Ana.company_overview()}\")\n    logger.info(f\"{column_name_company_overview}\")\n    history_fpt = stock_historical_data_test()",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "price_board_stock",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "peekOfCode": "def price_board_stock(symbol_ls):\n    \"\"\"\n    This function returns the trading price board of a target stocks list.\n    Args:\n        symbol_ls (:obj:`str`, required): STRING list of symbols separated by \",\" without any space. Ex: \"TCB,SSI,BID\"\n    \"\"\"\n    data = requests.get(\n        'https://apipubaws.tcbs.com.vn/stock-insight/v1/stock/second-tc-price?tickers={}'.format(symbol_ls)).json()\n    df = json_normalize(data['data'])\n    # drop columns named seq",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "fpt",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "peekOfCode": "def fpt():\n    fpt = Analysis(Tech.FPT)\n    save_data_frame_to_csv(fpt.company_overview(), os.path.join(\n        os.path.dirname(__file__), \"fpt.csv\"))\n    save_data_frame_to_csv(price_board_stock(Tech.FPT), os.path.join(\n        os.path.dirname(__file__), \"fpt_price_board.csv\"))",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "peekOfCode": "logger = get_logger()\ncsv_filename = \"{}/vnstock.csv\".format(os.path.dirname(__file__))\nlatest_indices_file = \"{}/latest_indices.csv\".format(os.path.dirname(__file__))\nlatest_indices_file_json = \"{}/latest_indices.json\".format(os.path.dirname(__file__))\n# STOCK TRADING HISTORICAL DATA\ndef stock_historical_data_test(symbol=\"FPT\", start_date=\"2023-05-06\", end_date=\"2023-07-29\"):\n    \"\"\"\n    This function returns the stock historical daily data.\n    Args:\n        symbol (:obj:`str`, required): 3 digits name of the desired stock.",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "csv_filename",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "peekOfCode": "csv_filename = \"{}/vnstock.csv\".format(os.path.dirname(__file__))\nlatest_indices_file = \"{}/latest_indices.csv\".format(os.path.dirname(__file__))\nlatest_indices_file_json = \"{}/latest_indices.json\".format(os.path.dirname(__file__))\n# STOCK TRADING HISTORICAL DATA\ndef stock_historical_data_test(symbol=\"FPT\", start_date=\"2023-05-06\", end_date=\"2023-07-29\"):\n    \"\"\"\n    This function returns the stock historical daily data.\n    Args:\n        symbol (:obj:`str`, required): 3 digits name of the desired stock.\n        start_date (:obj:`str`, required): the start date to get data (YYYY-mm-dd).",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "latest_indices_file",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "peekOfCode": "latest_indices_file = \"{}/latest_indices.csv\".format(os.path.dirname(__file__))\nlatest_indices_file_json = \"{}/latest_indices.json\".format(os.path.dirname(__file__))\n# STOCK TRADING HISTORICAL DATA\ndef stock_historical_data_test(symbol=\"FPT\", start_date=\"2023-05-06\", end_date=\"2023-07-29\"):\n    \"\"\"\n    This function returns the stock historical daily data.\n    Args:\n        symbol (:obj:`str`, required): 3 digits name of the desired stock.\n        start_date (:obj:`str`, required): the start date to get data (YYYY-mm-dd).\n        end_date (:obj:`str`, required): the end date to get data (YYYY-mm-dd).",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "latest_indices_file_json",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "peekOfCode": "latest_indices_file_json = \"{}/latest_indices.json\".format(os.path.dirname(__file__))\n# STOCK TRADING HISTORICAL DATA\ndef stock_historical_data_test(symbol=\"FPT\", start_date=\"2023-05-06\", end_date=\"2023-07-29\"):\n    \"\"\"\n    This function returns the stock historical daily data.\n    Args:\n        symbol (:obj:`str`, required): 3 digits name of the desired stock.\n        start_date (:obj:`str`, required): the start date to get data (YYYY-mm-dd).\n        end_date (:obj:`str`, required): the end date to get data (YYYY-mm-dd).\n    Returns:",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "read_yaml",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.read_yaml",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.read_yaml",
+        "peekOfCode": "def read_yaml(path:str)->dict:\n    \"\"\"read yaml file by path\n    Args:\n        path (str): _description_\n    Returns:\n        dict: data of yaml file\n    \"\"\"\n    data_bytes = open(\"/home/ziuteng/ncd_proj/ncd_project/microservice/vnstock/vnstock.yml\" , \"r\")\n    yaml_data = yaml.load(data_bytes, Loader=yaml.FullLoader)\n    return yaml_data",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.read_yaml",
+        "documentation": {}
+    },
+    {
+        "label": "pFactors",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.test",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.test",
+        "peekOfCode": "def pFactors(n):\n    \"\"\"Finds the prime factors of 'n'\"\"\"\n    pFact, limit, check, num = [], int(sqrt(n)) + 1, 2, n\n    if n == 1: return [1]\n    for check in range(2, limit):\n            while num % check == 0:\n                pFact.append(check)\n                num /= check\n    if num > 1:\n        pFact.append(num)",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.test",
+        "documentation": {}
+    },
+    {
+        "label": "stock_headers",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.utlis",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.utlis",
+        "peekOfCode": "stock_headers = {\n        'Connection': 'keep-alive',\n        'sec-ch-ua': '\"Not A;Brand\";v=\"99\", \"Chromium\";v=\"98\", \"Google Chrome\";v=\"98\"',\n        'DNT': '1',\n        'sec-ch-ua-mobile': '?0',\n        'X-Fiin-Key': 'KEY',\n        'Content-Type': 'application/json',\n        'Accept': 'application/json',\n        'X-Fiin-User-ID': 'ID',\n        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36',",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.utlis",
+        "documentation": {}
+    },
+    {
+        "label": "listing_companies_test",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.vnstock",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.vnstock",
+        "peekOfCode": "def listing_companies_test():\n    url = 'https://fiin-core.ssi.com.vn/Master/GetListOrganization?language=vi'\n    r = api_request_test(url)\n    print(r)\n    df = pd.DataFrame(r['items']).drop(columns=['organCode', 'icbCode', 'organTypeCode', 'comTypeCode']).rename(columns={'comGroupCode': 'group_code', 'organName': 'company_name', 'organShortName':'company_short_name'})\n    return df\ndef api_request_test(url, headers=headers):\n    print(\"api_request_test\")\n    r = requests.get(url, headers).json()\n    return r",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.vnstock",
+        "documentation": {}
+    },
+    {
+        "label": "api_request_test",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.vnstock",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.vnstock",
+        "peekOfCode": "def api_request_test(url, headers=headers):\n    print(\"api_request_test\")\n    r = requests.get(url, headers).json()\n    return r\ndef ticker_overview_test(symbol):\n    data = requests.get('https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/{}/overview'.format(symbol)).json()\n    df = json_normalize(data)\n    return df\ndef get_latest_indices_test(headers=headers):\n    \"\"\"",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.vnstock",
+        "documentation": {}
+    },
+    {
+        "label": "ticker_overview_test",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.vnstock",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.vnstock",
+        "peekOfCode": "def ticker_overview_test(symbol):\n    data = requests.get('https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/{}/overview'.format(symbol)).json()\n    df = json_normalize(data)\n    return df\ndef get_latest_indices_test(headers=headers):\n    \"\"\"\n    Retrieve the latest indices values\n    \"\"\"\n    url = \"https://fiin-market.ssi.com.vn/MarketInDepth/GetLatestIndices?language=vi&pageSize=999999&status=1\"\n    payload={}",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.vnstock",
+        "documentation": {}
+    },
+    {
+        "label": "get_latest_indices_test",
+        "kind": 2,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.vnstock",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.vnstock",
+        "peekOfCode": "def get_latest_indices_test(headers=headers):\n    \"\"\"\n    Retrieve the latest indices values\n    \"\"\"\n    url = \"https://fiin-market.ssi.com.vn/MarketInDepth/GetLatestIndices?language=vi&pageSize=999999&status=1\"\n    payload={}\n    response = requests.request(\"GET\", url, headers=headers, data=payload)\n    result = json_normalize(response.json()['items'])\n    return result\nif __name__  == \"__main__\":",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.vnstock",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.vnstock",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.vnstock",
+        "peekOfCode": "headers = {\n        'Connection': 'keep-alive',\n        'sec-ch-ua': '\"Not A;Brand\";v=\"99\", \"Chromium\";v=\"98\", \"Google Chrome\";v=\"98\"',\n        'DNT': '1',\n        'sec-ch-ua-mobile': '?0',\n        'X-Fiin-Key': 'KEY',\n        'Content-Type': 'application/json',\n        'Accept': 'application/json',\n        'X-Fiin-User-ID': 'ID',\n        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36',",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.microservice.vn_stock.vnstock",
+        "documentation": {}
+    },
+    {
+        "label": "BaseConfig",
+        "kind": 6,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.test.lib.config",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.test.lib.config",
+        "peekOfCode": "class BaseConfig(configparser.ConfigParser):\n    def __init__(self, *arg):\n        config = configparser.ConfigParser()\n        config.read(arg[0])\n# class Config_pas",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.test.lib.config",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "jenkin_ci.jenkins_data.workspace.ncd_project.test.lib.pgadmin4_manager",
+        "description": "jenkin_ci.jenkins_data.workspace.ncd_project.test.lib.pgadmin4_manager",
+        "peekOfCode": "client = docker.from_env()",
+        "detail": "jenkin_ci.jenkins_data.workspace.ncd_project.test.lib.pgadmin4_manager",
+        "documentation": {}
+    },
+    {
+        "label": "MyServer",
+        "kind": 6,
+        "importPath": "microservice.NCD_service.NCD_Adapter",
+        "description": "microservice.NCD_service.NCD_Adapter",
+        "peekOfCode": "class MyServer(NCD_http_request_handler):\n    @embrace\n    def do_GET(self):\n        logger.info(\"path: {}\".format(self.path))\n        if \"/\" == self.path:\n            self.login_html_index()\n            return\n        elif \"/\" in self.path and \".\" in self.path:\n            self.path = \"/microservice/NCD_service/GUI/Login_v1\" +self.path\n            super().do_GET()",
+        "detail": "microservice.NCD_service.NCD_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "microservice.NCD_service.NCD_Adapter",
+        "description": "microservice.NCD_service.NCD_Adapter",
+        "peekOfCode": "logger = logging\nlogger.basicConfig(filename='{}/log_controler/app.log'.format(os.getcwd()),\n                   level=logging.INFO,\n                   filemode='w',\n                   format='%(asctime)s - %(filename)s - %(levelname)s - %(message)s')\nhostName = \"0.0.0.0\"\nserverPort = int(os.environ['PORT'])\nclass MyServer(NCD_http_request_handler):\n    @embrace\n    def do_GET(self):",
+        "detail": "microservice.NCD_service.NCD_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "hostName",
+        "kind": 5,
+        "importPath": "microservice.NCD_service.NCD_Adapter",
+        "description": "microservice.NCD_service.NCD_Adapter",
+        "peekOfCode": "hostName = \"0.0.0.0\"\nserverPort = int(os.environ['PORT'])\nclass MyServer(NCD_http_request_handler):\n    @embrace\n    def do_GET(self):\n        logger.info(\"path: {}\".format(self.path))\n        if \"/\" == self.path:\n            self.login_html_index()\n            return\n        elif \"/\" in self.path and \".\" in self.path:",
+        "detail": "microservice.NCD_service.NCD_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "serverPort",
+        "kind": 5,
+        "importPath": "microservice.NCD_service.NCD_Adapter",
+        "description": "microservice.NCD_service.NCD_Adapter",
+        "peekOfCode": "serverPort = int(os.environ['PORT'])\nclass MyServer(NCD_http_request_handler):\n    @embrace\n    def do_GET(self):\n        logger.info(\"path: {}\".format(self.path))\n        if \"/\" == self.path:\n            self.login_html_index()\n            return\n        elif \"/\" in self.path and \".\" in self.path:\n            self.path = \"/microservice/NCD_service/GUI/Login_v1\" +self.path",
+        "detail": "microservice.NCD_service.NCD_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "NCD_http_request_handler",
+        "kind": 6,
+        "importPath": "microservice.common.base_http_server",
+        "description": "microservice.common.base_http_server",
+        "peekOfCode": "class NCD_http_request_handler(SimpleHTTPRequestHandler):\n    def version_string(self):\n        \"\"\"override version_string to ensure all responses does not include\n        Returns:\n            _type_: _description_\n        \"\"\"\n        return \"NCD Service\"",
+        "detail": "microservice.common.base_http_server",
+        "documentation": {}
+    },
+    {
+        "label": "_StrEnum",
+        "kind": 6,
+        "importPath": "microservice.common.constants",
+        "description": "microservice.common.constants",
+        "peekOfCode": "class _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'\n    VAR_CHAR_30 = 'varchar(30)'\n    NOT_NULL = 'NOT NULL'\n    CREATE_PRICE_BOARD_TABLE = f'''CREATE TABLE __TABLE_NAME__ (\\\n                                    cp {FLOAT} {NOT_NULL},\\\n                                    fv {FLOAT} {NOT_NULL},\\",
+        "detail": "microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "PostGresql",
+        "kind": 6,
+        "importPath": "microservice.common.constants",
+        "description": "microservice.common.constants",
+        "peekOfCode": "class PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'\n    VAR_CHAR_30 = 'varchar(30)'\n    NOT_NULL = 'NOT NULL'\n    CREATE_PRICE_BOARD_TABLE = f'''CREATE TABLE __TABLE_NAME__ (\\\n                                    cp {FLOAT} {NOT_NULL},\\\n                                    fv {FLOAT} {NOT_NULL},\\\n                                    mav {FLOAT} {NOT_NULL},\\\n                                    nstv {FLOAT} {NOT_NULL},\\",
+        "detail": "microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "StockIndex",
+        "kind": 6,
+        "importPath": "microservice.common.constants",
+        "description": "microservice.common.constants",
+        "peekOfCode": "class StockIndex(_StrEnum):\n    __doc__ = \"\"\"Index in stock, with each index perfom kind of infor within reflect market sentiment,\n            investment decision will be based on all index,\"\"\"\n    VOLUMN = 'Volumn'\n    ROE = 'state2'\n    PE = \"Price to Earning Ratio (PER)\"\n    EPS = \"\"\n    DPR = \"\"\n    ROA = \"\"\n    PB = \"\"",
+        "detail": "microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "CompanyProperty",
+        "kind": 6,
+        "importPath": "microservice.common.constants",
+        "description": "microservice.common.constants",
+        "peekOfCode": "class CompanyProperty(str, Enum):\n    __doc__ = \"\"\"Dividends are a sum of money paid regularly (typically quarterly or anually)\n    by a company to its shareholders profits after fulfilling the tax obligation\n    and deducting other expenses of that company.\"\"\"\n    TIME_DIVIDENDS = 360\n    DIVIDENDS_QUARTERLY = \"Typically quarterly\"\n    DIVIDENDS_ANUALLY = \"Anually\"\nclass MarketPsychology(str, Enum):\n    __doc__= \"\"\"The CBOE Volatility Index (VIX) is a real-time index\n    that represents the market is expectations for the relative strength",
+        "detail": "microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "MarketPsychology",
+        "kind": 6,
+        "importPath": "microservice.common.constants",
+        "description": "microservice.common.constants",
+        "peekOfCode": "class MarketPsychology(str, Enum):\n    __doc__= \"\"\"The CBOE Volatility Index (VIX) is a real-time index\n    that represents the market is expectations for the relative strength\n    of near-term price changes of the S&P 500 Index (SPX).\"\"\"\n    VIX = \"\"\nclass Tech:\n    FPT = \"FPT\"",
+        "detail": "microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "Tech",
+        "kind": 6,
+        "importPath": "microservice.common.constants",
+        "description": "microservice.common.constants",
+        "peekOfCode": "class Tech:\n    FPT = \"FPT\"",
+        "detail": "microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "REPO_DIR",
+        "kind": 5,
+        "importPath": "microservice.common.constants",
+        "description": "microservice.common.constants",
+        "peekOfCode": "REPO_DIR = get_git_root(__file__)\nLOG = os.path.join(REPO_DIR, \"log\", \"app{}.log\")\nMICROSERVICE = os.path.join(REPO_DIR, \"microservice\")\nCOMMON = os.path.join(MICROSERVICE, \"Common\")\nPOSTGRES = os.path.join(MICROSERVICE, \"postgres_sql\")\nCONFIG_POSTGRES = os.path.join(POSTGRES, \"Postgres.cfg\")\nclass _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''",
+        "detail": "microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "LOG",
+        "kind": 5,
+        "importPath": "microservice.common.constants",
+        "description": "microservice.common.constants",
+        "peekOfCode": "LOG = os.path.join(REPO_DIR, \"log\", \"app{}.log\")\nMICROSERVICE = os.path.join(REPO_DIR, \"microservice\")\nCOMMON = os.path.join(MICROSERVICE, \"Common\")\nPOSTGRES = os.path.join(MICROSERVICE, \"postgres_sql\")\nCONFIG_POSTGRES = os.path.join(POSTGRES, \"Postgres.cfg\")\nclass _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'",
+        "detail": "microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "MICROSERVICE",
+        "kind": 5,
+        "importPath": "microservice.common.constants",
+        "description": "microservice.common.constants",
+        "peekOfCode": "MICROSERVICE = os.path.join(REPO_DIR, \"microservice\")\nCOMMON = os.path.join(MICROSERVICE, \"Common\")\nPOSTGRES = os.path.join(MICROSERVICE, \"postgres_sql\")\nCONFIG_POSTGRES = os.path.join(POSTGRES, \"Postgres.cfg\")\nclass _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'\n    VAR_CHAR_30 = 'varchar(30)'",
+        "detail": "microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "COMMON",
+        "kind": 5,
+        "importPath": "microservice.common.constants",
+        "description": "microservice.common.constants",
+        "peekOfCode": "COMMON = os.path.join(MICROSERVICE, \"Common\")\nPOSTGRES = os.path.join(MICROSERVICE, \"postgres_sql\")\nCONFIG_POSTGRES = os.path.join(POSTGRES, \"Postgres.cfg\")\nclass _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'\n    VAR_CHAR_30 = 'varchar(30)'\n    NOT_NULL = 'NOT NULL'",
+        "detail": "microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "POSTGRES",
+        "kind": 5,
+        "importPath": "microservice.common.constants",
+        "description": "microservice.common.constants",
+        "peekOfCode": "POSTGRES = os.path.join(MICROSERVICE, \"postgres_sql\")\nCONFIG_POSTGRES = os.path.join(POSTGRES, \"Postgres.cfg\")\nclass _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'\n    VAR_CHAR_30 = 'varchar(30)'\n    NOT_NULL = 'NOT NULL'\n    CREATE_PRICE_BOARD_TABLE = f'''CREATE TABLE __TABLE_NAME__ (\\",
+        "detail": "microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIG_POSTGRES",
+        "kind": 5,
+        "importPath": "microservice.common.constants",
+        "description": "microservice.common.constants",
+        "peekOfCode": "CONFIG_POSTGRES = os.path.join(POSTGRES, \"Postgres.cfg\")\nclass _StrEnum(str, Enum):\n    __doc__ = '''In python 3.11 have class for constain include str and Enum'''\nclass PostGresql(_StrEnum):\n    RULE = '''all column in table should be lower case'''\n    FLOAT = 'float'\n    VAR_CHAR_30 = 'varchar(30)'\n    NOT_NULL = 'NOT NULL'\n    CREATE_PRICE_BOARD_TABLE = f'''CREATE TABLE __TABLE_NAME__ (\\\n                                    cp {FLOAT} {NOT_NULL},\\",
+        "detail": "microservice.common.constants",
+        "documentation": {}
+    },
+    {
+        "label": "MyLogger",
+        "kind": 6,
+        "importPath": "microservice.common.logger",
+        "description": "microservice.common.logger",
+        "peekOfCode": "class MyLogger(object, metaclass=SingletonType):\n    _logger = None\n    def __init__(self):\n        self._logger = logging.getLogger(\"crumbs\")\n        self._logger.setLevel(logging.DEBUG)\n        formatter = logging.Formatter('%(asctime)s [%(levelname)s | %(filename)s:%(lineno)s] > %(message)s')\n        # Generate new instance\n        now = datetime.datetime.now()\n        dirname = os.path.dirname(LOG)\n        if not os.path.isdir(dirname):",
+        "detail": "microservice.common.logger",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "kind": 2,
+        "importPath": "microservice.common.logger",
+        "description": "microservice.common.logger",
+        "peekOfCode": "def get_logger() -> logging:\n    logger = MyLogger.__call__().get_logger()\n    return logger\ndef embrace(func):\n    logger = get_logger()\n    def wrapper(*args, **kwargs):\n        logger.info(\"Call function {}\".format(func.__name__), stack_info=True)\n        return func(*args, **kwargs)\n    return wrapper",
+        "detail": "microservice.common.logger",
+        "documentation": {}
+    },
+    {
+        "label": "embrace",
+        "kind": 2,
+        "importPath": "microservice.common.logger",
+        "description": "microservice.common.logger",
+        "peekOfCode": "def embrace(func):\n    logger = get_logger()\n    def wrapper(*args, **kwargs):\n        logger.info(\"Call function {}\".format(func.__name__), stack_info=True)\n        return func(*args, **kwargs)\n    return wrapper",
+        "detail": "microservice.common.logger",
+        "documentation": {}
+    },
+    {
+        "label": "SingletonType",
+        "kind": 6,
+        "importPath": "microservice.common.singleton",
+        "description": "microservice.common.singleton",
+        "peekOfCode": "class SingletonType(type):\n    _instances = {}\n    def __call__(cls, *args, **kwargs):\n        if cls not in cls._instances:\n            cls._instances[cls] = super(SingletonType, cls).__call__(*args, **kwargs)\n        return cls._instances[cls]",
+        "detail": "microservice.common.singleton",
+        "documentation": {}
+    },
+    {
+        "label": "number",
+        "kind": 6,
+        "importPath": "microservice.common.test",
+        "description": "microservice.common.test",
+        "peekOfCode": "class number(metaclass=SingletonClass):\n    # _num = None\n    def __init__(self, num):\n        print(\"here\")\n        self._num = num\n    def get_num(self):\n        return self._num\n    def set_num(self, value):\n        if isinstance(value, int):\n            self._num = value",
+        "detail": "microservice.common.test",
+        "documentation": {}
+    },
+    {
+        "label": "SingletonType",
+        "kind": 6,
+        "importPath": "microservice.common.test",
+        "description": "microservice.common.test",
+        "peekOfCode": "class SingletonType(type):\n    _instances = {}\n    def __call__(cls, *args, **kwargs):\n        if cls not in cls._instances:\n            cls._instances[cls] = super(SingletonType, cls).__call__(*args, **kwargs)\n        return cls._instances[cls]\n# python 3 style\nclass MyLogger(object, metaclass=SingletonType):\n    # __metaclass__ = SingletonType   # python 2 Style\n    _logger = None",
+        "detail": "microservice.common.test",
+        "documentation": {}
+    },
+    {
+        "label": "MyLogger",
+        "kind": 6,
+        "importPath": "microservice.common.test",
+        "description": "microservice.common.test",
+        "peekOfCode": "class MyLogger(object, metaclass=SingletonType):\n    # __metaclass__ = SingletonType   # python 2 Style\n    _logger = None\n    def __init__(self):\n        self._logger = logging.getLogger(\"crumbs\")\n        self._logger.setLevel(logging.DEBUG)\n        formatter = logging.Formatter('%(asctime)s\\t[%(levelname)s | %(filename)s:%(lineno)s] > %(message)s')\n        now = datetime.datetime.now()\n        dirname = \"./log\"\n        if not os.path.isdir(dirname):",
+        "detail": "microservice.common.test",
+        "documentation": {}
+    },
+    {
+        "label": "save_data_frame_to_csv",
+        "kind": 2,
+        "importPath": "microservice.common.utils",
+        "description": "microservice.common.utils",
+        "peekOfCode": "def save_data_frame_to_csv(data_frame:pandas.DataFrame, filename:str) ->None:\n    data_frame.to_csv(filename)\ndef get_git_root(path:str) -> str:\n    \"\"\"get parrent git path\n    Args:\n        path (str)\n    Returns:\n        str: parrent git path\n    \"\"\"\n    git_repo = git.Repo(path, search_parent_directories=True)",
+        "detail": "microservice.common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_git_root",
+        "kind": 2,
+        "importPath": "microservice.common.utils",
+        "description": "microservice.common.utils",
+        "peekOfCode": "def get_git_root(path:str) -> str:\n    \"\"\"get parrent git path\n    Args:\n        path (str)\n    Returns:\n        str: parrent git path\n    \"\"\"\n    git_repo = git.Repo(path, search_parent_directories=True)\n    git_root = git_repo.git.rev_parse(\"--show-toplevel\")\n    return git_root",
+        "detail": "microservice.common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_random_letter",
+        "kind": 2,
+        "importPath": "microservice.common.utils",
+        "description": "microservice.common.utils",
+        "peekOfCode": "def get_random_letter(length) -> str:\n    # choose from all ascii letter\n    letters = string.ascii_letters\n    result_str = ''.join(random.choice(letters) for _ in range(length))\n    return result_str\ndef read_config(path:str) -> dict:\n    \"\"\"read config file\n    Args:\n        path (str): path of config file\n    Raises:",
+        "detail": "microservice.common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_config",
+        "kind": 2,
+        "importPath": "microservice.common.utils",
+        "description": "microservice.common.utils",
+        "peekOfCode": "def read_config(path:str) -> dict:\n    \"\"\"read config file\n    Args:\n        path (str): path of config file\n    Raises:\n        Exception: if file is not exists\n    Returns:\n        dict: config base on key and value\n    \"\"\"\n    if not os.path.exists(path):",
+        "detail": "microservice.common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_xml",
+        "kind": 2,
+        "importPath": "microservice.common.utils",
+        "description": "microservice.common.utils",
+        "peekOfCode": "def read_xml(path):\n    with open(path, \"r\") as file:\n        xml_data = file.read()\n    root = ET.fromstring(xml_data)\n    res = [(elem.tag, elem.text) for elem in root.iter()]\n    sessionId=list(filter(lambda element : \"sessionId\" in element[0], res))[0][1]\n    baseSequenceId=list(filter(lambda element : \"baseSequenceId\" in element[0], res))[0][1]",
+        "detail": "microservice.common.utils",
+        "documentation": {}
+    },
+    {
+        "label": "Newton_Divided_Diff",
+        "kind": 6,
+        "importPath": "microservice.interpolation.polynomial",
+        "description": "microservice.interpolation.polynomial",
+        "peekOfCode": "class Newton_Divided_Diff(object):\n    \"\"\"Newton's Divided difference, produces coefficients of\n        interpolating polynomial\n    \"\"\"\n    def __init__(self, xpt: np.array, ypt: np.array) -> None:\n        # Calculates correct coefficients and graphs interpolating polynomial\n        self.xpt = xpt\n        self.ypt = ypt\n        self.NDD()\n        self.tval = np.linspace(min(self.xpt)-1, max(self.xpt)+1, 100)",
+        "detail": "microservice.interpolation.polynomial",
+        "documentation": {}
+    },
+    {
+        "label": "Lagrange_Divided_Diff",
+        "kind": 6,
+        "importPath": "microservice.interpolation.polynomial",
+        "description": "microservice.interpolation.polynomial",
+        "peekOfCode": "class Lagrange_Divided_Diff(object):\n    \"\"\"Larange polynomial\n    \"\"\"\n    def __init__(self, xpt: np.array, ypt: np.array) -> None:\n        self.xpt = xpt\n        self.ypt = ypt\n        self.f = lagrange(self.xpt, self.ypt)\n    def show_plot(self, path:str):\n        x_new = np.arange(-1.0, 20, 0.1)\n        fig = plt.figure(figsize = (10,8))",
+        "detail": "microservice.interpolation.polynomial",
+        "documentation": {}
+    },
+    {
+        "label": "NDD",
+        "kind": 2,
+        "importPath": "microservice.interpolation.polynomial",
+        "description": "microservice.interpolation.polynomial",
+        "peekOfCode": "def NDD(x,y):\n    n = len(x)\n    #Construct table and load xy pairs in first columns\n    A = np.zeros((n,n+1))\n    A[:,0]= x[:]\n    A[:,1]= y[:]\n    #Fill in Divided differences\n    for j in range(2,n+1):\n        for i in range(j-1,n):\n            A[i,j] = (A[i,j-1]-A[i-1,j-1]) / (A[i,0]-A[i-j+1,0])",
+        "detail": "microservice.interpolation.polynomial",
+        "documentation": {}
+    },
+    {
+        "label": "poly",
+        "kind": 2,
+        "importPath": "microservice.interpolation.polynomial",
+        "description": "microservice.interpolation.polynomial",
+        "peekOfCode": "def poly(t,x,p):\n    n = len(x)\n    out = p[n-1]\n    for i in range(n-2,-1,-1):\n        out = out*(t-x[i]) + p[i]\n    return out\nclass Newton_Divided_Diff(object):\n    \"\"\"Newton's Divided difference, produces coefficients of\n        interpolating polynomial\n    \"\"\"",
+        "detail": "microservice.interpolation.polynomial",
+        "documentation": {}
+    },
+    {
+        "label": "xpt",
+        "kind": 5,
+        "importPath": "microservice.interpolation.polynomial",
+        "description": "microservice.interpolation.polynomial",
+        "peekOfCode": "xpt = np.array([0,2,3,5, 10, 16, 18, 19])\nypt = np.array([1,5,0,8, 20, 11, 30, 50])\ndef NDD(x,y):\n    n = len(x)\n    #Construct table and load xy pairs in first columns\n    A = np.zeros((n,n+1))\n    A[:,0]= x[:]\n    A[:,1]= y[:]\n    #Fill in Divided differences\n    for j in range(2,n+1):",
+        "detail": "microservice.interpolation.polynomial",
+        "documentation": {}
+    },
+    {
+        "label": "ypt",
+        "kind": 5,
+        "importPath": "microservice.interpolation.polynomial",
+        "description": "microservice.interpolation.polynomial",
+        "peekOfCode": "ypt = np.array([1,5,0,8, 20, 11, 30, 50])\ndef NDD(x,y):\n    n = len(x)\n    #Construct table and load xy pairs in first columns\n    A = np.zeros((n,n+1))\n    A[:,0]= x[:]\n    A[:,1]= y[:]\n    #Fill in Divided differences\n    for j in range(2,n+1):\n        for i in range(j-1,n):",
+        "detail": "microservice.interpolation.polynomial",
+        "documentation": {}
+    },
+    {
+        "label": "execute_sql",
+        "kind": 2,
+        "importPath": "microservice.postgres_sql.Postgres_Adapter",
+        "description": "microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "def execute_sql(sql:str, postgres_config:dict):\n    \"\"\"execute sql postgresql\n    Args:\n        sql (str): Structured Query Language\n        postgres_config (dict): config of postgresql to connect database\n    \"\"\"\n    try:\n        connection = psycopg2.connect(database=postgres_config['postgresql']['db'],\n                                        host=postgres_config['postgresql']['host'],\n                                        user=postgres_config['postgresql']['user'],",
+        "detail": "microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "drop_table",
+        "kind": 2,
+        "importPath": "microservice.postgres_sql.Postgres_Adapter",
+        "description": "microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "def drop_table(table_name:str):\n    # drop table\n    sql = '''DROP table IF EXISTS {} '''.format(table_name)\n    logger.info(\"drop table {}\".format(table_name))\n    sql = PostGresql.DROP_TABLE.value.replace('__TABLE_NAME__', table_name)\n    logger.info(sql)\n    execute_sql(sql, postgres_config)\n@embrace\ndef check_table_exists(table_name) -> bool:\n    try:",
+        "detail": "microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "check_table_exists",
+        "kind": 2,
+        "importPath": "microservice.postgres_sql.Postgres_Adapter",
+        "description": "microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "def check_table_exists(table_name) -> bool:\n    try:\n        logger.info('Check_table_exists {}'.format(table_name))\n        connection = psycopg2.connect(database=postgres_config['postgresql']['db'],\n                                        host=postgres_config['postgresql']['host'],\n                                        user=postgres_config['postgresql']['user'],\n                                        password=postgres_config['postgresql']['passwd'],\n                                        port=postgres_config['postgresql']['port'])\n        cursor = connection.cursor()\n        connection.autocommit = True",
+        "detail": "microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "updateTable",
+        "kind": 2,
+        "importPath": "microservice.postgres_sql.Postgres_Adapter",
+        "description": "microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "def updateTable(mobileId: str, price):\n    \"\"\"update value in table\n    Args:\n        mobileId (str): table name\n        price : value of field in table\n    \"\"\"\n    try:\n        connection = psycopg2.connect(database=postgres_config['postgresql']['db'],\n                                        host=postgres_config['postgresql']['host'],\n                                        user=postgres_config['postgresql']['user'],",
+        "detail": "microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "import_data",
+        "kind": 2,
+        "importPath": "microservice.postgres_sql.Postgres_Adapter",
+        "description": "microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "def import_data(columns:tuple, data:tuple, table_name:str):\n    try:\n        logger.info('data to insert\\n{}'.format(data))\n        postgres_insert_query = \"\"\" INSERT INTO {} ({}) VALUES ({})\"\"\".format(table_name,\n                                                                              \",\".join(columns),\n                                                                              \", \".join([\"%s\"]*len(columns)))\n        logger.info(postgres_insert_query)\n        connection = psycopg2.connect(database=postgres_config['postgresql']['db'],\n                                    host=postgres_config['postgresql']['host'],\n                                    user=postgres_config['postgresql']['user'],",
+        "detail": "microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "create_table_price_board",
+        "kind": 2,
+        "importPath": "microservice.postgres_sql.Postgres_Adapter",
+        "description": "microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "def create_table_price_board(table_name:str, postgres_config:dict):\n    logger.info(\"create table {}\".format(table_name))\n    sql = PostGresql.CREATE_PRICE_BOARD_TABLE.value.replace('__TABLE_NAME__', table_name)\n    logger.info(sql)\n    execute_sql(sql, postgres_config)\nif __name__ == \"__main__\":\n    if not check_table_exists(table_name='fpt_price_board'):\n        create_table_price_board('fpt_price_board', postgres_config)\n    else:\n        import_data(columns = ('cp', 'fv', 'mav', 'nstv', 'nstp', 'rsi', 'macdv', 'macdsignal',",
+        "detail": "microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "postgres_config",
+        "kind": 5,
+        "importPath": "microservice.postgres_sql.Postgres_Adapter",
+        "description": "microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "postgres_config = read_config(CONFIG_POSTGRES)\nlogger = get_logger()\n@embrace\ndef execute_sql(sql:str, postgres_config:dict):\n    \"\"\"execute sql postgresql\n    Args:\n        sql (str): Structured Query Language\n        postgres_config (dict): config of postgresql to connect database\n    \"\"\"\n    try:",
+        "detail": "microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "microservice.postgres_sql.Postgres_Adapter",
+        "description": "microservice.postgres_sql.Postgres_Adapter",
+        "peekOfCode": "logger = get_logger()\n@embrace\ndef execute_sql(sql:str, postgres_config:dict):\n    \"\"\"execute sql postgresql\n    Args:\n        sql (str): Structured Query Language\n        postgres_config (dict): config of postgresql to connect database\n    \"\"\"\n    try:\n        connection = psycopg2.connect(database=postgres_config['postgresql']['db'],",
+        "detail": "microservice.postgres_sql.Postgres_Adapter",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "kind": 5,
+        "importPath": "microservice.postgres_sql.postgres",
+        "description": "microservice.postgres_sql.postgres",
+        "peekOfCode": "conn = psycopg2.connect(database=\"test_db\",\n                        host=\"127.0.0.1\",\n                        user=\"postgres\",\n                        password=\"nqt123\",\n                        port=\"5432\")\nconn.autocommit = True\ncursor = conn.cursor()\nsql = '''CREATE TABLE vnstock(employee_id int NOT NULL,\\\nemployee_name char(20),\\\nemployee_email varchar(30), employee_salary float);'''",
+        "detail": "microservice.postgres_sql.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "conn.autocommit",
+        "kind": 5,
+        "importPath": "microservice.postgres_sql.postgres",
+        "description": "microservice.postgres_sql.postgres",
+        "peekOfCode": "conn.autocommit = True\ncursor = conn.cursor()\nsql = '''CREATE TABLE vnstock(employee_id int NOT NULL,\\\nemployee_name char(20),\\\nemployee_email varchar(30), employee_salary float);'''\ncursor.execute(sql)\nconn.commit()\nconn.close()\npostgres_create_table = '''CREATE TABLE {}(exchange char(20) NOT NULL,\\\n                                    price float,\\",
+        "detail": "microservice.postgres_sql.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "cursor",
+        "kind": 5,
+        "importPath": "microservice.postgres_sql.postgres",
+        "description": "microservice.postgres_sql.postgres",
+        "peekOfCode": "cursor = conn.cursor()\nsql = '''CREATE TABLE vnstock(employee_id int NOT NULL,\\\nemployee_name char(20),\\\nemployee_email varchar(30), employee_salary float);'''\ncursor.execute(sql)\nconn.commit()\nconn.close()\npostgres_create_table = '''CREATE TABLE {}(exchange char(20) NOT NULL,\\\n                                    price float,\\\n                                    industryID varchar(30),\\",
+        "detail": "microservice.postgres_sql.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "sql",
+        "kind": 5,
+        "importPath": "microservice.postgres_sql.postgres",
+        "description": "microservice.postgres_sql.postgres",
+        "peekOfCode": "sql = '''CREATE TABLE vnstock(employee_id int NOT NULL,\\\nemployee_name char(20),\\\nemployee_email varchar(30), employee_salary float);'''\ncursor.execute(sql)\nconn.commit()\nconn.close()\npostgres_create_table = '''CREATE TABLE {}(exchange char(20) NOT NULL,\\\n                                    price float,\\\n                                    industryID varchar(30),\\\n                                    industry varchar(30),\\",
+        "detail": "microservice.postgres_sql.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "postgres_create_table",
+        "kind": 5,
+        "importPath": "microservice.postgres_sql.postgres",
+        "description": "microservice.postgres_sql.postgres",
+        "peekOfCode": "postgres_create_table = '''CREATE TABLE {}(exchange char(20) NOT NULL,\\\n                                    price float,\\\n                                    industryID varchar(30),\\\n                                    industry varchar(30),\\\n                                    industryEn varchar(30),\\\n                                    establishedYear varchar(30),\\\n                                    noEmployees varchar(30),\\\n                                    noShareholders varchar(30),\\\n                                    foreignPercent varchar(30),\\\n                                    website varchar(30),\\",
+        "detail": "microservice.postgres_sql.postgres",
+        "documentation": {}
+    },
+    {
+        "label": "Analysis",
+        "kind": 6,
+        "importPath": "microservice.vn_stock.analysis",
+        "description": "microservice.vn_stock.analysis",
+        "peekOfCode": "class Analysis():\n    symbol = \"\"\n    def __init__(self, symbol: str):\n        self.symbol = symbol\n        self.data_overview = self.get_base_information(symbol)\n    def get_base_information(self, symbol):\n        data = requests.get(\n            'https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/{}/overview'.format(symbol)).json()\n        df = json_normalize(data)\n        return df",
+        "detail": "microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "stock_historical_data_test",
+        "kind": 2,
+        "importPath": "microservice.vn_stock.analysis",
+        "description": "microservice.vn_stock.analysis",
+        "peekOfCode": "def stock_historical_data_test(symbol=\"FPT\", start_date=\"2023-05-06\", end_date=\"2023-07-29\"):\n    \"\"\"\n    This function returns the stock historical daily data.\n    Args:\n        symbol (:obj:`str`, required): 3 digits name of the desired stock.\n        start_date (:obj:`str`, required): the start date to get data (YYYY-mm-dd).\n        end_date (:obj:`str`, required): the end date to get data (YYYY-mm-dd).\n    Returns:\n        :obj:`pandas.DataFrame`:\n        | tradingDate | open | high | low | close | volume |",
+        "detail": "microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "get_latest_indices",
+        "kind": 2,
+        "importPath": "microservice.vn_stock.analysis",
+        "description": "microservice.vn_stock.analysis",
+        "peekOfCode": "def get_latest_indices(headers=stock_headers):\n    \"\"\"\n    Retrieve the latest indices values\n    \"\"\"\n    url = \"https://fiin-market.ssi.com.vn/MarketInDepth/GetLatestIndices?language=vi&pageSize=999999&status=1\"\n    payload = {}\n    response = requests.request(\"GET\", url, headers=headers, data=payload)\n    with open(latest_indices_file_json, 'w') as data:\n        json.dump(response.json(), data, indent=4)\n    result = json_normalize(response.json()['items'])",
+        "detail": "microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "test_symbol_dig_fpt",
+        "kind": 2,
+        "importPath": "microservice.vn_stock.analysis",
+        "description": "microservice.vn_stock.analysis",
+        "peekOfCode": "def test_symbol_dig_fpt():\n    Ana = Analysis(\"DIG\")\n    data = Ana.get_data_overview()\n    column_name = data.columns.values.tolist()\n    logger.info(f\"data of the {Ana.get_stock_symbol()} is\\n {data}\")\n    logger.info(f\"{column_name}\")\n    column_name_company_overview = Ana.company_overview().columns.values.tolist()\n    logger.info(f\"company overview is\\n {Ana.company_overview()}\")\n    logger.info(f\"{column_name_company_overview}\")\n    history_fpt = stock_historical_data_test()",
+        "detail": "microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "price_board_stock",
+        "kind": 2,
+        "importPath": "microservice.vn_stock.analysis",
+        "description": "microservice.vn_stock.analysis",
+        "peekOfCode": "def price_board_stock(symbol_ls):\n    \"\"\"\n    This function returns the trading price board of a target stocks list.\n    Args:\n        symbol_ls (:obj:`str`, required): STRING list of symbols separated by \",\" without any space. Ex: \"TCB,SSI,BID\"\n    \"\"\"\n    data = requests.get(\n        'https://apipubaws.tcbs.com.vn/stock-insight/v1/stock/second-tc-price?tickers={}'.format(symbol_ls)).json()\n    df = json_normalize(data['data'])\n    # drop columns named seq",
+        "detail": "microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "fpt",
+        "kind": 2,
+        "importPath": "microservice.vn_stock.analysis",
+        "description": "microservice.vn_stock.analysis",
+        "peekOfCode": "def fpt():\n    fpt = Analysis(Tech.FPT)\n    save_data_frame_to_csv(fpt.company_overview(), os.path.join(\n        os.path.dirname(__file__), \"fpt.csv\"))\n    save_data_frame_to_csv(price_board_stock(Tech.FPT), os.path.join(\n        os.path.dirname(__file__), \"fpt_price_board.csv\"))",
+        "detail": "microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "microservice.vn_stock.analysis",
+        "description": "microservice.vn_stock.analysis",
+        "peekOfCode": "logger = get_logger()\ncsv_filename = \"{}/vnstock.csv\".format(os.path.dirname(__file__))\nlatest_indices_file = \"{}/latest_indices.csv\".format(os.path.dirname(__file__))\nlatest_indices_file_json = \"{}/latest_indices.json\".format(os.path.dirname(__file__))\n# STOCK TRADING HISTORICAL DATA\ndef stock_historical_data_test(symbol=\"FPT\", start_date=\"2023-05-06\", end_date=\"2023-07-29\"):\n    \"\"\"\n    This function returns the stock historical daily data.\n    Args:\n        symbol (:obj:`str`, required): 3 digits name of the desired stock.",
+        "detail": "microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "csv_filename",
+        "kind": 5,
+        "importPath": "microservice.vn_stock.analysis",
+        "description": "microservice.vn_stock.analysis",
+        "peekOfCode": "csv_filename = \"{}/vnstock.csv\".format(os.path.dirname(__file__))\nlatest_indices_file = \"{}/latest_indices.csv\".format(os.path.dirname(__file__))\nlatest_indices_file_json = \"{}/latest_indices.json\".format(os.path.dirname(__file__))\n# STOCK TRADING HISTORICAL DATA\ndef stock_historical_data_test(symbol=\"FPT\", start_date=\"2023-05-06\", end_date=\"2023-07-29\"):\n    \"\"\"\n    This function returns the stock historical daily data.\n    Args:\n        symbol (:obj:`str`, required): 3 digits name of the desired stock.\n        start_date (:obj:`str`, required): the start date to get data (YYYY-mm-dd).",
+        "detail": "microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "latest_indices_file",
+        "kind": 5,
+        "importPath": "microservice.vn_stock.analysis",
+        "description": "microservice.vn_stock.analysis",
+        "peekOfCode": "latest_indices_file = \"{}/latest_indices.csv\".format(os.path.dirname(__file__))\nlatest_indices_file_json = \"{}/latest_indices.json\".format(os.path.dirname(__file__))\n# STOCK TRADING HISTORICAL DATA\ndef stock_historical_data_test(symbol=\"FPT\", start_date=\"2023-05-06\", end_date=\"2023-07-29\"):\n    \"\"\"\n    This function returns the stock historical daily data.\n    Args:\n        symbol (:obj:`str`, required): 3 digits name of the desired stock.\n        start_date (:obj:`str`, required): the start date to get data (YYYY-mm-dd).\n        end_date (:obj:`str`, required): the end date to get data (YYYY-mm-dd).",
+        "detail": "microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "latest_indices_file_json",
+        "kind": 5,
+        "importPath": "microservice.vn_stock.analysis",
+        "description": "microservice.vn_stock.analysis",
+        "peekOfCode": "latest_indices_file_json = \"{}/latest_indices.json\".format(os.path.dirname(__file__))\n# STOCK TRADING HISTORICAL DATA\ndef stock_historical_data_test(symbol=\"FPT\", start_date=\"2023-05-06\", end_date=\"2023-07-29\"):\n    \"\"\"\n    This function returns the stock historical daily data.\n    Args:\n        symbol (:obj:`str`, required): 3 digits name of the desired stock.\n        start_date (:obj:`str`, required): the start date to get data (YYYY-mm-dd).\n        end_date (:obj:`str`, required): the end date to get data (YYYY-mm-dd).\n    Returns:",
+        "detail": "microservice.vn_stock.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "read_yaml",
+        "kind": 2,
+        "importPath": "microservice.vn_stock.read_yaml",
+        "description": "microservice.vn_stock.read_yaml",
+        "peekOfCode": "def read_yaml(path:str)->dict:\n    \"\"\"read yaml file by path\n    Args:\n        path (str): _description_\n    Returns:\n        dict: data of yaml file\n    \"\"\"\n    data_bytes = open(\"/home/ziuteng/ncd_proj/ncd_project/microservice/vnstock/vnstock.yml\" , \"r\")\n    yaml_data = yaml.load(data_bytes, Loader=yaml.FullLoader)\n    return yaml_data",
+        "detail": "microservice.vn_stock.read_yaml",
+        "documentation": {}
+    },
+    {
+        "label": "pFactors",
+        "kind": 2,
+        "importPath": "microservice.vn_stock.test",
+        "description": "microservice.vn_stock.test",
+        "peekOfCode": "def pFactors(n):\n    \"\"\"Finds the prime factors of 'n'\"\"\"\n    pFact, limit, check, num = [], int(sqrt(n)) + 1, 2, n\n    if n == 1: return [1]\n    for check in range(2, limit):\n            while num % check == 0:\n                pFact.append(check)\n                num /= check\n    if num > 1:\n        pFact.append(num)",
+        "detail": "microservice.vn_stock.test",
+        "documentation": {}
+    },
+    {
+        "label": "stock_headers",
+        "kind": 5,
+        "importPath": "microservice.vn_stock.utlis",
+        "description": "microservice.vn_stock.utlis",
+        "peekOfCode": "stock_headers = {\n        'Connection': 'keep-alive',\n        'sec-ch-ua': '\"Not A;Brand\";v=\"99\", \"Chromium\";v=\"98\", \"Google Chrome\";v=\"98\"',\n        'DNT': '1',\n        'sec-ch-ua-mobile': '?0',\n        'X-Fiin-Key': 'KEY',\n        'Content-Type': 'application/json',\n        'Accept': 'application/json',\n        'X-Fiin-User-ID': 'ID',\n        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36',",
+        "detail": "microservice.vn_stock.utlis",
+        "documentation": {}
+    },
+    {
+        "label": "listing_companies_test",
+        "kind": 2,
+        "importPath": "microservice.vn_stock.vnstock",
+        "description": "microservice.vn_stock.vnstock",
+        "peekOfCode": "def listing_companies_test():\n    url = 'https://fiin-core.ssi.com.vn/Master/GetListOrganization?language=vi'\n    r = api_request_test(url)\n    print(r)\n    df = pd.DataFrame(r['items']).drop(columns=['organCode', 'icbCode', 'organTypeCode', 'comTypeCode']).rename(columns={'comGroupCode': 'group_code', 'organName': 'company_name', 'organShortName':'company_short_name'})\n    return df\ndef api_request_test(url, headers=headers):\n    print(\"api_request_test\")\n    r = requests.get(url, headers).json()\n    return r",
+        "detail": "microservice.vn_stock.vnstock",
+        "documentation": {}
+    },
+    {
+        "label": "api_request_test",
+        "kind": 2,
+        "importPath": "microservice.vn_stock.vnstock",
+        "description": "microservice.vn_stock.vnstock",
+        "peekOfCode": "def api_request_test(url, headers=headers):\n    print(\"api_request_test\")\n    r = requests.get(url, headers).json()\n    return r\ndef ticker_overview_test(symbol):\n    data = requests.get('https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/{}/overview'.format(symbol)).json()\n    df = json_normalize(data)\n    return df\ndef get_latest_indices_test(headers=headers):\n    \"\"\"",
+        "detail": "microservice.vn_stock.vnstock",
+        "documentation": {}
+    },
+    {
+        "label": "ticker_overview_test",
+        "kind": 2,
+        "importPath": "microservice.vn_stock.vnstock",
+        "description": "microservice.vn_stock.vnstock",
+        "peekOfCode": "def ticker_overview_test(symbol):\n    data = requests.get('https://apipubaws.tcbs.com.vn/tcanalysis/v1/ticker/{}/overview'.format(symbol)).json()\n    df = json_normalize(data)\n    return df\ndef get_latest_indices_test(headers=headers):\n    \"\"\"\n    Retrieve the latest indices values\n    \"\"\"\n    url = \"https://fiin-market.ssi.com.vn/MarketInDepth/GetLatestIndices?language=vi&pageSize=999999&status=1\"\n    payload={}",
+        "detail": "microservice.vn_stock.vnstock",
+        "documentation": {}
+    },
+    {
+        "label": "get_latest_indices_test",
+        "kind": 2,
+        "importPath": "microservice.vn_stock.vnstock",
+        "description": "microservice.vn_stock.vnstock",
+        "peekOfCode": "def get_latest_indices_test(headers=headers):\n    \"\"\"\n    Retrieve the latest indices values\n    \"\"\"\n    url = \"https://fiin-market.ssi.com.vn/MarketInDepth/GetLatestIndices?language=vi&pageSize=999999&status=1\"\n    payload={}\n    response = requests.request(\"GET\", url, headers=headers, data=payload)\n    result = json_normalize(response.json()['items'])\n    return result\nif __name__  == \"__main__\":",
+        "detail": "microservice.vn_stock.vnstock",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "microservice.vn_stock.vnstock",
+        "description": "microservice.vn_stock.vnstock",
+        "peekOfCode": "headers = {\n        'Connection': 'keep-alive',\n        'sec-ch-ua': '\"Not A;Brand\";v=\"99\", \"Chromium\";v=\"98\", \"Google Chrome\";v=\"98\"',\n        'DNT': '1',\n        'sec-ch-ua-mobile': '?0',\n        'X-Fiin-Key': 'KEY',\n        'Content-Type': 'application/json',\n        'Accept': 'application/json',\n        'X-Fiin-User-ID': 'ID',\n        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36',",
+        "detail": "microservice.vn_stock.vnstock",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "kind": 2,
+        "importPath": "selenium.selenium_code",
+        "description": "selenium.selenium_code",
+        "peekOfCode": "def get_driver(url: str):\n    options = webdriver.ChromeOptions()\n    service = Chrome_Service(\"/usr/local/share/chromedriver\")\n    opts = [\"disable-infobars\", \"start-maximized\",\n            \"disable-dev-shm-usage\", \"no-sandbox\", \"--headless\", \"--window-size=1920,1080\",\n            \"--ignore-certificate-errors\", \"--allow-running-insecure-content\"]\n    for opt in opts:\n        options.add_argument(opt)\n    driver = webdriver.Chrome(\n        service=service, options=options, keep_alive=True)",
+        "detail": "selenium.selenium_code",
+        "documentation": {}
+    },
+    {
+        "label": "get_element",
+        "kind": 2,
+        "importPath": "selenium.selenium_code",
+        "description": "selenium.selenium_code",
+        "peekOfCode": "def get_element(driver: webdriver.Chrome, value: str, by=By.XPATH):\n    try:\n        element = WebDriverWait(driver, timeout=5).until(\n            EC.visibility_of_element_located((by, value)))\n        return element\n    except Exception as e:\n        logging.error(\"Not found element {}\".format(e))\n        return None",
+        "detail": "selenium.selenium_code",
+        "documentation": {}
+    },
+    {
+        "label": "BaseConfig",
+        "kind": 6,
+        "importPath": "test.lib.config",
+        "description": "test.lib.config",
+        "peekOfCode": "class BaseConfig(configparser.ConfigParser):\n    def __init__(self, *arg):\n        config = configparser.ConfigParser()\n        config.read(arg[0])\n# class Config_pas",
+        "detail": "test.lib.config",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "test.lib.pgadmin4_manager",
+        "description": "test.lib.pgadmin4_manager",
+        "peekOfCode": "client = docker.from_env()",
+        "detail": "test.lib.pgadmin4_manager",
+        "documentation": {}
+    }
+]

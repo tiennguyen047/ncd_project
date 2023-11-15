@@ -1,9 +1,15 @@
+
+selenium/driver
+selenium/driver/chrome_114_amd64.deb
 packages/
 
 */__pycache__/
 microservice/vnstock/__pycache__
 log_controler/
 
+# for jenkin ci deploy container
+jenkin_ci/jenkins_data
+jenkin_ci/jenkins_docker_certs
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
