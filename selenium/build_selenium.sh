@@ -44,7 +44,7 @@ function f_deploy_selenium() {
     IMAGE_NAME=${image_name}:${version}
     if docker image inspect ${IMAGE_NAME} >/dev/null 2>&1; then
         echo "Deployment ${IMAGE_NAME}"
-        docker run -d -itd --name ${container_name} ${IMAGE_NAME}
+        docker run -d -itd --network host --name ${container_name} ${IMAGE_NAME}
     else
         echo "Image does not exist locally"
         echo "build images ${image_name}:${version}"

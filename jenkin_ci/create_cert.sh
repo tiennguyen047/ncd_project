@@ -63,4 +63,4 @@ openssl rsa -in key.pem -out key.pem -passin pass:$PASS
 # remove generated files that are no longer required
 rm -f ca-key.pem ca.srl client.csr extfile.cnf server.csr
 
-exit 0c 
+exit 0

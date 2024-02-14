@@ -41,6 +41,6 @@ def get_logger() -> logging:
 def embrace(func):
     logger = get_logger()
     def wrapper(*args, **kwargs):
-        logger.info("Call function {}".format(func.__name__), stack_info=True)
+        logger.info("Call function {}".format(func.__name__), stack_info=False)
         return func(*args, **kwargs)
     return wrapper

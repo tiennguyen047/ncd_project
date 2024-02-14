@@ -1,7 +1,7 @@
 #!/bin/bash
 # [default value]
 proj_repo="$(git rev-parse --show-toplevel)"
-docker_file=${proj_repo}
+docker_file="${proj_repo}"
 image_name="ncd_image"
 version="ncd_v_1"
 packages=${proj_repo}/packages

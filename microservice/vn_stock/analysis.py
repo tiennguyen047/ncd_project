@@ -157,7 +157,5 @@ def price_board_stock(symbol_ls):
 @embrace
 def fpt():
     fpt = Analysis(Tech.FPT)
-    save_data_frame_to_csv(fpt.company_overview(), os.path.join(
-        os.path.dirname(__file__), "fpt.csv"))
-    save_data_frame_to_csv(price_board_stock(Tech.FPT), os.path.join(
-        os.path.dirname(__file__), "fpt_price_board.csv"))
+    save_data_frame_to_csv(fpt.company_overview(), os.path.join(os.path.dirname(__file__), "fpt.csv"))
+    save_data_frame_to_csv(price_board_stock(Tech.FPT), os.path.join(os.path.dirname(__file__), "fpt_price_board.csv"))
